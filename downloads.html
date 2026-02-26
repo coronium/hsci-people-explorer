@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Downloads - IsisCB Projects PEOPLE</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/isiscb-base.css">
+  <link rel="stylesheet" href="styles/app.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="app-logo">
+      <div class="app-logo-line"></div>
+      <div class="app-logo-line"></div>
+      <div class="app-logo-line"></div>
+    </div>
+    <div class="app-branding">
+      <span class="app-title">IsisCB Projects</span>
+      <span class="app-project-name">People</span>
+    </div>
+  </header>
+  <nav class="app-nav">
+    <a href="index.html">Home</a>
+    <a href="directory.html">Directory</a>
+    <a href="search.html">Search</a>
+    <a href="graph.html">Network</a>
+    <a href="downloads.html">Downloads</a>
+  </nav>
+
+  <main class="app-main">
+    <h2>Download Source Data</h2>
+    <p style="color:var(--charcoal-blue);margin-bottom:1.5rem;">
+      The data behind this explorer comes from <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>,
+      the free knowledge base maintained by the Wikimedia Foundation. These CSV files were compiled as part of the
+      <a href="https://isiscb.org" target="_blank" rel="noopener">IsisCB</a> history of science bibliographic project.
+      All data is freely available for reuse.
+    </p>
+
+    <div class="download-card">
+      <div class="download-info">
+        <h3>Award Recipients</h3>
+        <p>335 records of scholars who received major history of science prizes, including the George Sarton Medal, Pfizer Award, Koyré Medal, Binoux Prize, and others. Fields include person name, Wikidata ID, award name, year, and authority identifiers (VIAF, IsisCB).</p>
+      </div>
+      <a href="downloads/wikidata_hos_award_recipients.csv" class="btn btn-primary" download>Download CSV</a>
+    </div>
+
+    <div class="download-card">
+      <div class="download-info">
+        <h3>Journal Editors</h3>
+        <p>456 records of editors and editorial board members across 25 major history of science journals, including Isis, Osiris, Annals of Science, Technology and Culture, and others. Fields include person name, journal, role, start/end dates, and authority identifiers.</p>
+      </div>
+      <a href="downloads/wikidata_hos_journal_editors.csv" class="btn btn-primary" download>Download CSV</a>
+    </div>
+
+    <div class="download-card">
+      <div class="download-info">
+        <h3>Organization Officers &amp; Members</h3>
+        <p>456 records of officers, presidents, and notable members of 14 professional societies and academies, including the History of Science Society, International Academy of the History of Science, and the British Society for the History of Science. Fields include person name, organization, role, start/end years, and authority identifiers.</p>
+      </div>
+      <a href="downloads/wikidata_hos_org_officers.csv" class="btn btn-primary" download>Download CSV</a>
+    </div>
+
+    <div style="margin-top:2rem;padding:1.25rem;background:var(--sky-lighter);border-radius:8px;">
+      <h3 style="font-size:var(--text-base);margin-bottom:0.5rem;">Data Provenance</h3>
+      <p style="font-size:var(--text-sm);color:var(--charcoal-blue);margin:0;">
+        These datasets were extracted from Wikidata using SPARQL queries and supplemented with web-sourced editorial records.
+        Authority identifiers (IsisCB, VIAF) were matched using a combination of VIAF ID reconciliation and name-based matching.
+        The data represents a snapshot and may not include all scholars active in the field.
+        For corrections or additions, please contribute to <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>
+        or contact <a href="https://isiscb.org" target="_blank" rel="noopener">IsisCB</a>.
+      </p>
+    </div>
+  </main>
+</body>
+</html>

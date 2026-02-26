@@ -1,0 +1,252 @@
+{
+ "total_people": 761,
+ "total_awards": 10,
+ "total_journals": 25,
+ "total_organizations": 14,
+ "total_connected": 181,
+ "total_edges": 947,
+ "awards_list": [
+  "Binoux Prize",
+  "Galileo Galilei Prize for the Italian History of Science",
+  "George Sarton Medal",
+  "Joseph H. Hazen Education Prize",
+  "Koyré Medal",
+  "Margaret W. Rossiter History of Women in Science Prize",
+  "Nathan Reingold Prize",
+  "Pfizer Award",
+  "Sue Tyler Friedman Medal",
+  "Watson Davis and Helen Miles Davis Prize"
+ ],
+ "journals_list": [
+  "Ambix",
+  "Annals of Science",
+  "Archive for History of Exact Sciences",
+  "British Journal for the History of Science",
+  "Bulletin of the History of Medicine",
+  "Centaurus",
+  "Early Science and Medicine",
+  "Endeavour",
+  "Historia Mathematica",
+  "Historical Studies in the Natural Sciences",
+  "History of Humanities",
+  "Isis",
+  "Journal for the History of Astronomy",
+  "Metascience",
+  "Minerva",
+  "Notes and Records of the Royal Society",
+  "Nuncius",
+  "Osiris",
+  "Perspectives on Science",
+  "Philosophy of Science",
+  "Revue d'Histoire des Sciences",
+  "Science in Context",
+  "Social Studies of Science",
+  "Studies in History and Philosophy of Science",
+  "Technology and Culture"
+ ],
+ "organizations_list": [
+  "American Association for the History of Medicine",
+  "British Society for the History of Mathematics",
+  "British Society for the History of Science",
+  "Canadian Society for the History and Philosophy of Science",
+  "History of Science Society",
+  "International Academy of the History of Science",
+  "International Commission on the History of Mathematics",
+  "International Society for the History of Medicine",
+  "International Society for the History of Pharmacy",
+  "International Society for the History of Philosophy of Science",
+  "International Union of History and Philosophy of Science",
+  "Philosophy of Science Association",
+  "Society for the History of Technology",
+  "Société française d'histoire des sciences et des techniques"
+ ],
+ "timeline": [
+  {
+   "decade": 1900,
+   "count": 3
+  },
+  {
+   "decade": 1910,
+   "count": 6
+  },
+  {
+   "decade": 1920,
+   "count": 3
+  },
+  {
+   "decade": 1930,
+   "count": 14
+  },
+  {
+   "decade": 1940,
+   "count": 10
+  },
+  {
+   "decade": 1950,
+   "count": 13
+  },
+  {
+   "decade": 1960,
+   "count": 36
+  },
+  {
+   "decade": 1970,
+   "count": 33
+  },
+  {
+   "decade": 1980,
+   "count": 43
+  },
+  {
+   "decade": 1990,
+   "count": 62
+  },
+  {
+   "decade": 2000,
+   "count": 64
+  },
+  {
+   "decade": 2010,
+   "count": 72
+  },
+  {
+   "decade": 2020,
+   "count": 30
+  }
+ ],
+ "top_connected": [
+  {
+   "id": "Q1316061",
+   "name": "George Sarton",
+   "connections": 48
+  },
+  {
+   "id": "Q1347036",
+   "name": "I. Bernard Cohen",
+   "connections": 40
+  },
+  {
+   "id": "Q24292",
+   "name": "Allen G. Debus",
+   "connections": 40
+  },
+  {
+   "id": "Q325282",
+   "name": "Marshall Clagett",
+   "connections": 40
+  },
+  {
+   "id": "Q527805",
+   "name": "Marie Boas Hall",
+   "connections": 40
+  },
+  {
+   "id": "Q907710",
+   "name": "Henry Guerlac",
+   "connections": 40
+  },
+  {
+   "id": "Q2176530",
+   "name": "Alfred Rupert Hall",
+   "connections": 35
+  },
+  {
+   "id": "Q367890",
+   "name": "Charles Singer",
+   "connections": 35
+  },
+  {
+   "id": "Q903959",
+   "name": "J. R. Partington",
+   "connections": 35
+  },
+  {
+   "id": "Q550844",
+   "name": "David C. Lindberg",
+   "connections": 34
+  },
+  {
+   "id": "Q319243",
+   "name": "Alexandre Koyré",
+   "connections": 32
+  },
+  {
+   "id": "Q1200127",
+   "name": "Tom Whiteside",
+   "connections": 31
+  },
+  {
+   "id": "Q1388382",
+   "name": "René Taton",
+   "connections": 28
+  },
+  {
+   "id": "Q1699969",
+   "name": "John E. Murdoch",
+   "connections": 28
+  },
+  {
+   "id": "Q1700039",
+   "name": "John Farquhar Fulton",
+   "connections": 28
+  }
+ ],
+ "org_stats": [
+  {
+   "name": "International Academy of the History of Science",
+   "count": 348
+  },
+  {
+   "name": "British Society for the History of Science",
+   "count": 43
+  },
+  {
+   "name": "History of Science Society",
+   "count": 28
+  },
+  {
+   "name": "Philosophy of Science Association",
+   "count": 10
+  },
+  {
+   "name": "International Union of History and Philosophy of Science",
+   "count": 6
+  },
+  {
+   "name": "Society for the History of Technology",
+   "count": 4
+  },
+  {
+   "name": "American Association for the History of Medicine",
+   "count": 3
+  },
+  {
+   "name": "International Society for the History of Philosophy of Science",
+   "count": 3
+  },
+  {
+   "name": "Société française d'histoire des sciences et des techniques",
+   "count": 2
+  },
+  {
+   "name": "British Society for the History of Mathematics",
+   "count": 2
+  },
+  {
+   "name": "International Society for the History of Medicine",
+   "count": 2
+  },
+  {
+   "name": "International Society for the History of Pharmacy",
+   "count": 1
+  },
+  {
+   "name": "International Commission on the History of Mathematics",
+   "count": 1
+  },
+  {
+   "name": "Canadian Society for the History and Philosophy of Science",
+   "count": 1
+  }
+ ]
+}

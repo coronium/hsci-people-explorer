@@ -1,0 +1,455 @@
+person_name,person_wikidata_id,person_description,role,organization,org_wikidata_id,start_year,end_year,viaf_id,isiscb_id,cb_viaf_id,match_method,match_source
+Berry Campbell,Q100324399,American neurophysiologist,member/fellow,American Association for the History of Medicine,Q21467471,,,,,,,member
+Judith Walzer Leavitt,Q6303734,American historian,member/fellow,American Association for the History of Medicine,Q21467471,,,233130242,CBA000058735,,name,member
+Leonard Gilchrist Wilson,Q59464867,Canadian-American historian of science,member/fellow,American Association for the History of Medicine,Q21467471,,,19774639,CBA000110378,,name,member
+Christopher Hollings,Q61196603,researcher ORCID ID = 0000-0003-3181-1968,chairperson/president,British Society for the History of Mathematics,Q4971049,2023,,306382001,CBA000151355,,name,chairperson
+Raymond Flood,Q18921729,"Gresham Professor of Geometry, Gresham College, Oxford, U.K.",member/fellow,British Society for the History of Mathematics,Q4971049,,,39405468,CBA000032600,,name,member
+Charles Singer,Q367890,British historian of science (1876-1960),President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1947,1949,34479352,CBA000140108,"http://viaf.org/viaf/34479352, http://viaf.org/viaf/34479352",viaf,position
+J. R. Partington,Q903959,British chemist and historian of science (1886–1965),President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1949,1951,4518147270695535700008,CBA000077550,,name,position
+F. Sherwood Taylor,Q5424045,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1951,1953,39491771,CBA000100961,,name,position
+Hugh Hamshaw Thomas,Q950806,British botanist and historian of science (1885-1962),President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1953,1955,307167029,CBA000101775,,name,position
+Herbert Dingle,Q628065,British astronomer and historian of science (1890–1978),President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1955,1957,64394681,CBA000025908,,name,position
+Edgar Ashworth Underwood,Q27490425,"medical historian, 1899-1980",President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1957,1962,92761333,,,,position
+Thomas Martin,Q70739518,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1962,1964,100981211,,,,position
+Alistair Cameron Crombie,Q1375992,"Australian zoologist, historian of science (1915-1996)",President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1964,1966,97752006,CBA000022173,,name,position
+Alfred Rupert Hall,Q2176530,British historian of science (1920–2009),President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1966,1968,102334314,CBA000041882,http://viaf.org/viaf/102334314,viaf,position
+Gerald James Whitrow,Q3710220,British mathematician and historian of science (1912-2000),President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1968,1970,89601264,CBA000109432,,name,position
+W. P. D. Wightman,Q55990337,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1970,1972,38220167,CBA000109695,,name,position
+John Anthony Chaldecott,Q70736749,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1972,1974,,CBA000140554,,name,position
+Maurice P. Crosland,Q22911477,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1974,1976,59132753,CBA000022242,,name,position
+David Watkin Waters,Q96376050,British naval officer,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1976,1978,8111159613669741030001,CBA000107718,,name,position
+William Hodson Brock,Q22582839,British chemist and historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1978,1980,94697296,,,,position
+Robert Fox,Q22087424,British historian,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1980,1982,10907,CBA000033349,http://viaf.org/viaf/10907,viaf,position
+Jack Morrell,Q6114197,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1982,1984,94604490,CBA000071441,,name,position
+Gerard L'Estrange Turner,Q70733815,Historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1984,1986,98269960,CBA000103884,http://viaf.org/viaf/98269960,viaf,position
+Colin A. Russell,Q5144836,British historian,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1986,1988,29579844,CBA000158215,http://viaf.org/viaf/29579844,viaf,position
+Robert G. W. Anderson,Q7344640,British chemist and historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1988,1990,94486034,CBA000002314,,name,position
+Hugh Torrens,Q23017932,English palaeontologist; historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1990,1992,139050556,CBA743863967,,name,position
+Geoffrey Cantor,Q5534503,British historian,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1992,1993,97718613,CBA000146444,,name,position
+David M. Knight,Q1175389,British historian (1936–2018),President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1994,1995,97965389,CBA000054683,,name,position
+John Hedley Brooke,Q6238513,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1996,1997,49289055,CBA000013161,,name,position
+Ludmilla Jordanova,Q532951,British historian,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,1998,1999,64034541,CBA000152127,,name,position
+Jim Bennett,Q6193623,British historian of science and museum curator,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2000,2001,208035093,CBA000007663,,name,position
+Janet Browne,Q6153222,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2002,2003,109290373,CBA000013552,http://viaf.org/viaf/109290373,viaf,position
+Peter J. Bowler,Q7174853,Irish historian of biology (1944-),President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2004,2005,79046367,CBA000011757,,name,position
+Frank James,Q70730334,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2006,2007,,CBA589161687,,name,position
+Jeff Hughes,Q29643019,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2008,2009,46443111,CBA000047996,,name,position
+Sally Horrocks,Q70729432,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2010,2011,,CBA000047254,,name,position
+Hasok Chang,Q24238917,Korean-American historian and philosopher of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2012,2013,7632760,CBA000017824,,name,position
+Gregory Radick,Q70743994,British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2014,2016,2702036,CBA000082804,,name,position
+Patricia Fara,Q7145573,British historian,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2016,2018,19791912,CBA000030642,http://viaf.org/viaf/19791912,viaf,position
+Tim Boon,Q29642381,museum curator and researcher,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2018,2020,,CBA000010919,,name,position
+Charlotte Sleigh,Q72453421,science humanities researcher,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2020,2022,233286057,CBA000095405,,name,position
+James A. Secord,Q61944839,American British historian of science,President of the British Society for the History of Science,British Society for the History of Science,Q4971052,2022,,61637081,CBA000092600,http://viaf.org/viaf/61637081,viaf,position
+Francis Butler,Q112666818,British historian of science (1894-1970),member/fellow,British Society for the History of Science,Q4971052,,,,,,,member
+Martha Fleming,Q43761930,Canadian artist (born 1958),member/fellow,British Society for the History of Science,Q4971052,,,9134782,CBA014429159,http://viaf.org/viaf/9134782,viaf,member
+Pamela H. Smith,Q28027754,historian of science,member/fellow,British Society for the History of Science,Q4971052,,,191150061,CBA000095915,http://viaf.org/viaf/191150061,viaf,member
+Patrick J. Boner,Q101438764,historian of science,member/fellow,British Society for the History of Science,Q4971052,,,236459928,CBA000010736,,name,member
+"Ḥilmī, ʿAbd al-Ḥāfiẓ,",Q111720597,Egyptian writer,member/fellow,British Society for the History of Science,Q4971052,,,160994554,,,,member
+Nicola C Sugden,Q93240240,researcher (ORCID 0000-0002-3431-4652),staff/affiliated,British Society for the History of Science,Q4971052,,,,CBA607160275,,name,employer
+Paul Pirlot,Q52108706,Canadian zoologist,member/fellow,Canadian Society for the History and Philosophy of Science,Q69891097,,,288818268,CBA000080230,,name,member
+Barbara Maria Stafford,Q807549,American art historian (born 1941),member/fellow,History of Science Society,Q1621074,,,278498685,CBA000097482,,name,member
+David Eugene Smith,Q1174369,American mathematician (1860–1944),member/fellow,History of Science Society,Q1621074,,,34463266,CBA000095698,http://viaf.org/viaf/34463266,viaf,member
+David H. DeVorkin,Q94697777,American historian and museum curator,member/fellow,History of Science Society,Q1621074,,,94807495,CBA000025371,,name,member
+David Marshall Miller,Q104214475,American philosophy professor,member/fellow,History of Science Society,Q1621074,,,302291300,CBA000069502,,name,member
+Eduard Izrailevich Kolchinsky,Q75091241,"soviet, Russian philosopher, historian of science",member/fellow,History of Science Society,Q1621074,,,62608406,CBA000152797,,name,member
+Edward Grant,Q1292395,American historian (1926–2020),member/fellow,History of Science Society,Q1621074,,,4956969,CBA000039358,http://viaf.org/viaf/4956969,viaf,member
+Frederick Gregory,Q107232557,American historian of science,member/fellow,History of Science Society,Q1621074,,,112217868,CBA000039876,,name,member
+Hans Gossen,Q19210145,German classical philologist and teacher,member/fellow,History of Science Society,Q1621074,,,215188004,,,,member
+Helen H. Tanzer,Q21524820,American classical philologist and archaeologist (1876-1961),member/fellow,History of Science Society,Q1621074,,,7745234,,,,member
+Jacques Grinevald,Q3159039,French academic & philosopher,member/fellow,History of Science Society,Q1621074,,,228702240,CBA000040212,,name,member
+Joan Cadden,Q22958688,"American professor, writer",member/fellow,History of Science Society,Q1621074,,,267672541,CBA000015265,http://viaf.org/viaf/267672541,viaf,member
+John C. Greene,Q15446688,American historian of science (1917-2008),member/fellow,History of Science Society,Q1621074,,,111071899,CBA000039742,http://viaf.org/viaf/111071899,viaf,member
+Juan J. Morrone,Q22106555,Argentinean–Mexican evolutionary biologist,member/fellow,History of Science Society,Q1621074,,,9424880,CBA788057775,http://viaf.org/viaf/9424880,viaf,member
+Leonard Gilchrist Wilson,Q59464867,Canadian-American historian of science,member/fellow,History of Science Society,Q1621074,,,19774639,CBA000110378,,name,member
+Lynn K. Nyhart,Q22903610,American historian,member/fellow,History of Science Society,Q1621074,,,7531802,CBA000074936,,name,member
+Marta E. Hanson,Q124640624,historian of medicine in East Asia,member/fellow,History of Science Society,Q1621074,,,71011972,CBA000042595,,name,member
+Martha Fleming,Q43761930,Canadian artist (born 1958),member/fellow,History of Science Society,Q1621074,,,9134782,CBA014429159,http://viaf.org/viaf/9134782,viaf,member
+Michele L. Aldrich,Q59419535,historian of geology,member/fellow,History of Science Society,Q1621074,,,54317142,CBA000001163,,name,member
+Owen Gingerich,Q1202177,American astronomer (1930–2023),member/fellow,History of Science Society,Q1621074,,,274876596,CBA000037310,http://viaf.org/viaf/274876596,viaf,member
+Pamela H. Smith,Q28027754,historian of science,member/fellow,History of Science Society,Q1621074,,,191150061,CBA000095915,http://viaf.org/viaf/191150061,viaf,member
+Patrick J. Boner,Q101438764,historian of science,member/fellow,History of Science Society,Q1621074,,,236459928,CBA000010736,,name,member
+Peggy A. Kidwell,Q70093637,Curator of Mathematics at the National Museum of American History,member/fellow,History of Science Society,Q1621074,,,17295714,CBA000053579,,name,member
+Peter K. Machamer,Q16847586,American philosopher and historian of science,member/fellow,History of Science Society,Q1621074,,,5085732,CBA000063260,,name,member
+Philip J. Pauly,Q7183828,American historian (1950–2008),member/fellow,History of Science Society,Q1621074,,,27248002,CBA000077964,,name,member
+Raz Chen-Morris,Q95339378,Israeli historian,member/fellow,History of Science Society,Q1621074,,,97731128,CBA000018365,,name,member
+Stephen Brush,Q1763302,American physicist,member/fellow,History of Science Society,Q1621074,,,79047084,CBA000013852,http://viaf.org/viaf/79047084,viaf,member
+William Harris Stahl,Q2446176,American historian (1908-1969),member/fellow,History of Science Society,Q1621074,,,17269983,CBA000097518,,name,member
+Robert J. Malone,Q114861116,science historian,staff/affiliated,History of Science Society,Q1621074,,,,CBA000064200,,name,employer
+Aage Gerhardt Drachmann,Q15377187,Danish ancient historian and librarian (1891-1980),member/fellow,International Academy of the History of Science,Q337449,,,97780650,CBA000140470,,name,member
+Abel Rey,Q2821533,French philosopher (1873-1940),member/fellow,International Academy of the History of Science,Q337449,,,16531,CBA117927302,http://viaf.org/viaf/1653145857004422920822,viaf,member
+Abraham Seidenberg,Q330593,American mathematician (1916–1988),member/fellow,International Academy of the History of Science,Q337449,,,73918176,CBA000092812,,name,member
+Adalberto Pazzini,Q16524609,Italian physician,member/fellow,International Academy of the History of Science,Q337449,,,22280122,CBA000078097,,name,member
+Adolphe Rome,Q365804,Belgian historian of science (1889–1971),member/fellow,International Academy of the History of Science,Q337449,,,64089809,,,,member
+Agustín Jesús Barreiro Martínez,Q25421945,Spanish biologist (1865-1937),member/fellow,International Academy of the History of Science,Q337449,,,39743006,,,,member
+Aldo Mieli,Q2885857,Italian historian of science,member/fellow,International Academy of the History of Science,Q337449,,,24640580,CBA000069234,,name,member
+Aleksander Birkenmajer,Q824471,Polish historian of exact sciences and philosophy (1890-1967),member/fellow,International Academy of the History of Science,Q337449,,,20425546,CBA000009365,,name,member
+Alexander Gelfond,Q716017,Russian mathematician (1906–1968),member/fellow,International Academy of the History of Science,Q337449,,,101651,CBA945311008,http://viaf.org/viaf/10165135922500302888,viaf,member
+Alexandre Koyré,Q319243,French philosopher (1892–1964),member/fellow,International Academy of the History of Science,Q337449,,,100191727,CBA000055698,http://viaf.org/viaf/100191727,viaf,member
+Alfonso Maierù,Q3611196,Italian philosopher and university teacher (1939–2011),member/fellow,International Academy of the History of Science,Q337449,,,59097583,CBA000063873,,name,member
+Alfred Kastler,Q71023,French physicist (1902–1984),member/fellow,International Academy of the History of Science,Q337449,,,9848471,CBA000052374,,name,member
+Alfred Rupert Hall,Q2176530,British historian of science (1920–2009),member/fellow,International Academy of the History of Science,Q337449,,,102334314,CBA000041882,http://viaf.org/viaf/102334314,viaf,member
+Alistair Cameron Crombie,Q1375992,"Australian zoologist, historian of science (1915-1996)",member/fellow,International Academy of the History of Science,Q337449,,,97752006,CBA000022173,,name,member
+Allen G. Debus,Q24292,American historian of science (1926-2009),member/fellow,International Academy of the History of Science,Q337449,,,29559673,CBA000024169,http://viaf.org/viaf/29559673,viaf,member
+Aly Mazahéri,Q16889631,"French-Iranian iranologue, sociologist, and historian (1914-1991)",member/fellow,International Academy of the History of Science,Q337449,,,29537777,CBA000066663,,name,member
+Amedeo Agostini,Q3613870,Italian mathematician (1892-1958),member/fellow,International Academy of the History of Science,Q337449,,,27058328,,,,member
+Andrea Corsini,Q16657901,Italian physician and historian of science (1875-1961),member/fellow,International Academy of the History of Science,Q337449,,,88750471,CBA000021285,,name,member
+Andrey Kolmogorov,Q153224,Russian mathematician (1903–1987),member/fellow,International Academy of the History of Science,Q337449,,,36980195,,,,member
+André Weil,Q323232,French mathematician (1906-1998),member/fellow,International Academy of the History of Science,Q337449,,,108578091,CBA000108254,,name,member
+Angus Armitage,Q59524776,British astronomer,member/fellow,International Academy of the History of Science,Q337449,,,107083395,CBA000003107,,name,member
+Anneliese Maier,Q91482,German historian (1905-1971),member/fellow,International Academy of the History of Science,Q337449,,,109222111,CBA000063846,http://viaf.org/viaf/109222111,viaf,member
+Antonio García Varela,Q25424027,Spanish scientist and botanical garden director,member/fellow,International Academy of the History of Science,Q337449,,,76685864,,,,member
+Armando Cortesão,Q9159897,Portuguese athletics competitor (1891–1977),member/fellow,International Academy of the History of Science,Q337449,,,111865801,,,,member
+Arnold Klebs,Q119694,Swiss biologist (1870-1943),member/fellow,International Academy of the History of Science,Q337449,,,35236480,,,,member
+Arnold Reymond,Q4795218,"Swiss theologian, philosopher (logician) and historian of science (1874-1958)",member/fellow,International Academy of the History of Science,Q337449,,,41952256,,,,member
+Arthur Beer,Q15300084,German astronomer,member/fellow,International Academy of the History of Science,Q337449,,,89091117,CBA000006952,,name,member
+Arthur Birembaut,Q2864997,French engineer (1905–1986),member/fellow,International Academy of the History of Science,Q337449,,,303029073,CBA000009348,,name,member
+Arthur Erich Haas,Q89495,Austrian physicist (1884–1941),member/fellow,International Academy of the History of Science,Q337449,,,7492038,CBA116750256,,name,member
+Arturo Castiglioni,Q3624514,Italian-American historian (1874-1953),member/fellow,International Academy of the History of Science,Q337449,,,79087397,,,,member
+Asger Aaboe,Q724489,historian of exact sciences (1922–2007),member/fellow,International Academy of the History of Science,Q337449,,,33191860,CBA000000001,,name,member
+Aydın Sayılı,Q4405321,Turkish historian of science (1913–1993),member/fellow,International Academy of the History of Science,Q337449,,,92530893,,,,member
+Benjamin Farrington,Q2287201,Irish scholar (1891-1974),member/fellow,International Academy of the History of Science,Q337449,,,22221447,CBA000030791,,name,member
+Benno van Dalen,Q29168160,Ph.D. Universiteit Utrecht 1993,member/fellow,International Academy of the History of Science,Q337449,,,54222460,CBA000023097,,name,member
+Bernhard Sticker,Q104742,German astronomer (1906-1977),member/fellow,International Academy of the History of Science,Q337449,,,10618290,CBA000098504,,name,member
+Bertha Heimann,Q105054708,German chemist and science historian,member/fellow,International Academy of the History of Science,Q337449,,,,,,,member
+Bertrand Gille,Q2899549,French historian (1920–1980),member/fellow,International Academy of the History of Science,Q337449,,,73926967,CBA000037163,,name,member
+Bogdan Suchodolski,Q2537623,"Polish writer, philosopher, historian and teacher (1903–1992)",member/fellow,International Academy of the History of Science,Q337449,,,100181038,CBA000099504,,name,member
+Bohumil Němec,Q7356124,"Czechoslovak politician, academic and biologist (1873-1966)",member/fellow,International Academy of the History of Science,Q337449,,,45083352,CBA000142937,,name,member
+Bolesław Hryniewiecki,Q2909327,Polish botanist (1875-1963),member/fellow,International Academy of the History of Science,Q337449,,,101946862,,,,member
+Bolesław Olszewicz,Q9176846,Polish cartographer,member/fellow,International Academy of the History of Science,Q337449,,,13307845,,,,member
+Boris Rosenfeld,Q893601,Russian mathematician (1917-2008),member/fellow,International Academy of the History of Science,Q337449,,,243662840,,,,member
+Boubaker Ben Yahia,Q16259347,Tunisian pharmacist,member/fellow,International Academy of the History of Science,Q337449,,,206059487,,,,member
+Carl Benjamin Boyer,Q983561,American mathematician and historian (1906–1976),member/fellow,International Academy of the History of Science,Q337449,,,108315182,CBA000011844,,name,member
+Carl Ludwig Siegel,Q61721,German mathematician (1896-1981),member/fellow,International Academy of the History of Science,Q337449,,,61612750,CBA000094419,,name,member
+Carlo Alfonso Nallino,Q1075879,Italian islamicist and arabist (1872-1938),member/fellow,International Academy of the History of Science,Q337449,,,29650389,,,,member
+Carlos Chagas Filho,Q1042813,Brazilian physician and biologist (1910–2000),member/fellow,International Academy of the History of Science,Q337449,,,108918752,,,,member
+Charles Bernard Schmitt,Q5669180,American historian of science and philosophy (1933–1986),member/fellow,International Academy of the History of Science,Q337449,,,76329903,CBA000142156,http://viaf.org/viaf/76329903,viaf,member
+Charles Homer Haskins,Q973349,American historian (1870–1937),member/fellow,International Academy of the History of Science,Q337449,,,77225916,CBA000043359,http://viaf.org/viaf/77225916,viaf,member
+Charles Singer,Q367890,British historian of science (1876-1960),member/fellow,International Academy of the History of Science,Q337449,,,34479352,CBA000140108,"http://viaf.org/viaf/34479352, http://viaf.org/viaf/34479352",viaf,member
+Charles Émile Picard,Q286375,French mathematician (1856-1941),member/fellow,International Academy of the History of Science,Q337449,,,64010393,CBA000079712,,name,member
+Chauncey D. Leake,Q5088220,American scientist (1896–1978),member/fellow,International Academy of the History of Science,Q337449,,,110941850,CBA000058693,,name,member
+Christian Hünemörder,Q1080408,German historian of student and historian of science (1937–2012),member/fellow,International Academy of the History of Science,Q337449,,,291389912,CBA000048210,,name,member
+Christoph Scriba,Q74765,mathematician (1929–2013),member/fellow,International Academy of the History of Science,Q337449,,,261205922,,,,member
+Clarisse Doris Hellman,Q1095626,American historian of science (1910–1973),member/fellow,International Academy of the History of Science,Q337449,,,32152335,CBA000044417,,name,member
+Clifford Truesdell,Q950146,American mathematician (1919-2000),member/fellow,International Academy of the History of Science,Q337449,,,32058257,CBA000140257,http://viaf.org/viaf/32058257,viaf,member
+Conway Zirkle,Q16515008,American botanist and historian of science (1895-1972),member/fellow,International Academy of the History of Science,Q337449,,,3939397,CBA000113370,,name,member
+Cornelis de Waard,Q2997497,,member/fellow,International Academy of the History of Science,Q337449,,,100266884,,,,member
+Cyril Stanley Smith,Q4424880,British metallurgist (1903–1992),member/fellow,International Academy of the History of Science,Q337449,,,212960724,CBA000095687,http://viaf.org/viaf/212960724,viaf,member
+D'Arcy Wentworth Thompson,Q739438,"Scottish biologist, mathematician, and classics scholar (*1860 – †1948)",member/fellow,International Academy of the History of Science,Q337449,,,95300577,CBA000101898,http://viaf.org/viaf/95300577,viaf,member
+David C. Lindberg,Q550844,American historian of science (1935–2015),member/fellow,International Academy of the History of Science,Q337449,,,109333288,CBA000060879,http://viaf.org/viaf/109333288,viaf,member
+David Eugene Smith,Q1174369,American mathematician (1860–1944),member/fellow,International Academy of the History of Science,Q337449,,,34463266,CBA000095698,http://viaf.org/viaf/34463266,viaf,member
+Derek J. de Solla Price,Q764747,British historian and physicist (1922–1983),member/fellow,International Academy of the History of Science,Q337449,,,52650,CBA222202460,http://viaf.org/viaf/28852650,viaf,member
+Dirk Jan Struik,Q932815,Dutch mathematician (*1894 – †2000),member/fellow,International Academy of the History of Science,Q337449,,,108650046,CBA000140226,http://viaf.org/viaf/108650046,viaf,member
+Dorothea Waley Singer,Q528997,British historian (1882–1964),member/fellow,International Academy of the History of Science,Q337449,,,111569218,,,,member
+Douglas McKie,Q3038019,British chemist (1896-1967),member/fellow,International Academy of the History of Science,Q337449,,,5037104,,,,member
+Edgar Ashworth Underwood,Q27490425,"medical historian, 1899-1980",member/fellow,International Academy of the History of Science,Q337449,,,92761333,,,,member
+Edgar Goldschmid,Q1283893,German medical historian,member/fellow,International Academy of the History of Science,Q337449,,,102457815,,,,member
+Edith Heischkel,Q1285014,German medical historian (1906–1987),member/fellow,International Academy of the History of Science,Q337449,,,35519560,CBA000044302,,name,member
+Edmund Oscar von Lippmann,Q86401,German chemist (1857-1940),member/fellow,International Academy of the History of Science,Q337449,,,24674371,,,,member
+Eduard Izrailevich Kolchinsky,Q75091241,"soviet, Russian philosopher, historian of science",member/fellow,International Academy of the History of Science,Q337449,,,62608406,CBA000152797,,name,member
+Eduard Jan Dijksterhuis,Q726217,Dutch historian (1892–1965),member/fellow,International Academy of the History of Science,Q337449,,,19757924,CBA000025795,http://viaf.org/viaf/19757924,viaf,member
+Eduard Winter,Q87073,Czech university educator and Roman catholic priest (1896–1982),member/fellow,International Academy of the History of Science,Q337449,,,89506291,CBA573191041,http://viaf.org/viaf/89506291,viaf,member
+Eduardo García de Zúñiga,Q5819251,,member/fellow,International Academy of the History of Science,Q337449,,,206164714,,,,member
+Edward Rosen,Q5345115,American historian of science (1906-1985),member/fellow,International Academy of the History of Science,Q337449,,,108630454,CBA000087014,http://viaf.org/viaf/108630454,viaf,member
+Edward Stewart Kennedy,Q5345454,Science historian,member/fellow,International Academy of the History of Science,Q337449,,,88614348,CBA000140567,http://viaf.org/viaf/88614348,viaf,member
+Emil Pop,Q18545546,botanist (1897-1974),member/fellow,International Academy of the History of Science,Q337449,,,18827219,CBA000081009,,name,member
+Emilio G. Segrè,Q173028,Italian physicist and Nobel laureate,member/fellow,International Academy of the History of Science,Q337449,,,246165026,CBA000092745,,name,member
+Emmanuel Poulle,Q1338383,French medievalist and archivist (1928–2011),member/fellow,International Academy of the History of Science,Q337449,,,54152914,CBA000081402,,name,member
+Enrico Bellone,Q3725614,Italian physicist and philosopher (1938–2011),member/fellow,International Academy of the History of Science,Q337449,,,113915319,CBA000007360,,name,member
+Eric Forbes,Q18593033,American historian of astronomy (1933–1984),member/fellow,International Academy of the History of Science,Q337449,,,94427880,CBA000139876,http://viaf.org/viaf/94427880,viaf,member
+Eric John Holmyard,Q2784497,British historian of science (1891–1959),member/fellow,International Academy of the History of Science,Q337449,,,24681982,CBA719416524,http://viaf.org/viaf/24681982,viaf,member
+Erich Hintzsche,Q75999,Swiss physician (1900–1975),member/fellow,International Academy of the History of Science,Q337449,,,268005588,CBA000045900,,name,member
+Erna Lesky,Q1356087,Austrian medical historian (1911–1986),member/fellow,International Academy of the History of Science,Q337449,,,275591545,CBA000059871,,name,member
+Ernest Coumet,Q2375340,French philosopher and historian of science (1933-2003),member/fellow,International Academy of the History of Science,Q337449,,,59192254,CBA000021542,,name,member
+Ernest Wickersheimer,Q3057207,French librarian,member/fellow,International Academy of the History of Science,Q337449,,,9916278,CBA000109505,,name,member
+Ernst Zinner,Q70292,German astronomer (1886-1970),member/fellow,International Academy of the History of Science,Q337449,,,54944799,CBA000113346,,name,member
+Erwin N. Hiebert,Q28038698,Canadian-American physicist (1919–2012),member/fellow,International Academy of the History of Science,Q337449,,,109420279,CBA000045517,,name,member
+Ettore Bortolotti,Q1371855,Italian mathematician (1866–1947),member/fellow,International Academy of the History of Science,Q337449,,,29606361,CBA000011172,,name,member
+Eugen Mittwoch,Q106013,Rabbi and Orientalist (1876-1942),member/fellow,International Academy of the History of Science,Q337449,,,34782196,,,,member
+Eugeniusz Olszewski,Q9256011,Polish historian,member/fellow,International Academy of the History of Science,Q337449,,,74860395,CBA000075767,,name,member
+Eugeniusz Rybka,Q2090699,Polish astronomer (1898–1988),member/fellow,International Academy of the History of Science,Q337449,,,68960176,CBA000088581,,name,member
+F. Sherwood Taylor,Q5424045,British historian of science,member/fellow,International Academy of the History of Science,Q337449,,,39491771,CBA000100961,,name,member
+Federico Di Trocchio,Q1400455,Italian historian and philosopher of science (1949-2013),member/fellow,International Academy of the History of Science,Q337449,,,68964689,,,,member
+Federigo Enriques,Q982529,Italian mathematician (1871-1946),member/fellow,International Academy of the History of Science,Q337449,,,29606201,CBA000029548,,name,member
+Ferenc Szabadváry,Q1293257,Hungarian chemist and historian,member/fellow,International Academy of the History of Science,Q337449,,,93417518,CBA000100237,,name,member
+Fielding Hudson Garrison,Q3037058,American medical historian (1870–1935),member/fellow,International Academy of the History of Science,Q337449,,,24624759,CBA000035695,http://viaf.org/viaf/24624759,viaf,member
+Florian Cajori,Q122323,American mathematician (1859–1930),member/fellow,International Academy of the History of Science,Q337449,,,7436587,,,,member
+Francesco Zagar,Q17614733,astronomer and mathematician from Italy (1900-1976),member/fellow,International Academy of the History of Science,Q337449,,,34585392,,,,member
+Francis Cole,Q5480569,British zoologist (1872-1959),member/fellow,International Academy of the History of Science,Q337449,,,66839469,CBA000020123,,name,member
+Francisco Gomes Teixeira,Q3815565,Portuguese mathematician (1851–1933),member/fellow,International Academy of the History of Science,Q337449,,,10209602,CBA000101137,http://viaf.org/viaf/57397011,name,member
+Frank Greenaway,Q5486942,British chemist and museum curator (1917-2013),member/fellow,International Academy of the History of Science,Q337449,,,300056711,CBA000039695,,name,member
+Frans Verdoorn,Q5657736,botanist (1906-1984),member/fellow,International Academy of the History of Science,Q337449,,,32393388,CBA000105455,,name,member
+František Karel Studnička,Q9263368,"Czech physician, anatomist, and zoologist (1870–1955)",member/fellow,International Academy of the History of Science,Q337449,,,21984621,,,,member
+Franz Maria Feldhaus,Q1448177,"German engineer, historian of science, and scientific writer (1874–1957)",member/fellow,International Academy of the History of Science,Q337449,,,70047796,CBA000031134,,name,member
+Franz Strunz,Q23671507,Austrian historian of science and university teacher (1875-1953),member/fellow,International Academy of the History of Science,Q337449,,,84844497,CBA000099293,,name,member
+François Charette,Q120720106,Canadian historian of science,member/fellow,International Academy of the History of Science,Q337449,,,118307439,CBA000017982,,name,member
+François Dagognet,Q3084343,French philosopher & academic (1924-2015),member/fellow,International Academy of the History of Science,Q337449,,,36916841,CBA000140498,http://viaf.org/viaf/36916841,viaf,member
+François Jacob,Q218311,"French biologist and geneticist, winner of the Nobel Prize in 1965",member/fellow,International Academy of the History of Science,Q337449,,,44300426,CBA000139950,http://viaf.org/viaf/44300426,viaf,member
+François Russo,Q3085768,"French historian of science, epistemologist, theologian, philosopher (1909-1998)",member/fellow,International Academy of the History of Science,Q337449,,,310501915,CBA000088448,,name,member
+François Thureau-Dangin,Q1352388,French archaeologist (1872–1944),member/fellow,International Academy of the History of Science,Q337449,,,36997775,CBA174785671,https://viaf.org/viaf/36997775,viaf,member
+Frederick Gregory,Q107232557,American historian of science,member/fellow,International Academy of the History of Science,Q337449,,,112217868,CBA000039876,,name,member
+Frederick Poynter,Q18922261,librarian and medical historian (1908-1979),member/fellow,International Academy of the History of Science,Q337449,,,61586489,CBA000081515,,name,member
+Friedrich Klemm,Q1460417,German librarian and historian of technology (1904–1983),member/fellow,International Academy of the History of Science,Q337449,,,110813438,CBA000054415,,name,member
+Fritz Saaby Pedersen,Q93260480,Danish classical philologist (1945-2016),member/fellow,International Academy of the History of Science,Q337449,,,36913351,CBA000078270,,name,member
+Garegin Petrosyan,Q13052523,Russian mathematician (1902-1997),member/fellow,International Academy of the History of Science,Q337449,,,54477885,,,,member
+Gaston Bachelard,Q270800,French writer and philosopher (1884-1962),member/fellow,International Academy of the History of Science,Q337449,,,4926151,CBA000004168,,name,member
+Georg Sticker,Q1262360,German medical historian (1860-1960),member/fellow,International Academy of the History of Science,Q337449,,,54956588,CBA000098505,http://viaf.org/viaf/54956588,viaf,member
+Georg Urdang,Q28976436,1882-1960,member/fellow,International Academy of the History of Science,Q337449,,,89859977,CBA000104367,,name,member
+Georg Uschmann,Q15906550,German university teacher (1913-1986),member/fellow,International Academy of the History of Science,Q337449,,,64800464,CBA000104407,,name,member
+George Sarton,Q1316061,Belgian-American historian of science (1884–1956),member/fellow,International Academy of the History of Science,Q337449,,,64049239,CBA000089873,http://viaf.org/viaf/64049239,viaf,member
+Georges Canguilhem,Q433741,French philosopher (1904-1995),member/fellow,International Academy of the History of Science,Q337449,,,41837558,CBA000015926,http://viaf.org/viaf/41837558,viaf,member
+Gerald James Whitrow,Q3710220,British mathematician and historian of science (1912-2000),member/fellow,International Academy of the History of Science,Q337449,,,89601264,CBA000109432,,name,member
+Gino Loria,Q926791,Italian mathematician (1862-1954),member/fellow,International Academy of the History of Science,Q337449,,,113543468,CBA055761891,http://viaf.org/viaf/113543468,viaf,member
+Giorgio Israel,Q17351969,Italian mathematician (1945-2015),member/fellow,International Academy of the History of Science,Q337449,,,212557746,CBA000049262,,name,member
+Giorgio Levi Della Vida,Q387029,Italian linguist and historian (1886–1967),member/fellow,International Academy of the History of Science,Q337449,,,14764795,,,,member
+Giorgio de Santillana,Q186194,American historian and philosopher,member/fellow,International Academy of the History of Science,Q337449,,,85179909,,,,member
+Giovanni Polvani,Q3767965,Italian physicist and mathematician (1892-1970),member/fellow,International Academy of the History of Science,Q337449,,,90172124,CBA996519352,http://viaf.org/viaf/90172124,viaf,member
+Giovanni Vacca,Q1394744,Italian mathematician and sinologist (1872–1953),member/fellow,International Academy of the History of Science,Q337449,,,90248804,CBA000104475,,name,member
+Goulven Laurent,Q20752990,,member/fellow,International Academy of the History of Science,Q337449,,,73870533,CBA000058350,,name,member
+Guido Ucelli,Q3779489,Italian engineer (1885–1964),member/fellow,International Academy of the History of Science,Q337449,,,74211330,CBA390864068,http://viaf.org/viaf/74211330,viaf,member
+Gustav Hellmann,Q70610,German meteorologist (1854-1939),member/fellow,International Academy of the History of Science,Q337449,,,72151802,,,,member
+Gustav Senn,Q67199743,Swiss botanist (1875-1945),member/fellow,International Academy of the History of Science,Q337449,,,13085866,,,,member
+Gweneth Whitteridge,Q55418927,president of the History of Medicine Society of the Royal Society of Medicine,member/fellow,International Academy of the History of Science,Q337449,,,74173966,CBA000109458,,name,member
+Gérard Simon,Q3124306,,member/fellow,International Academy of the History of Science,Q337449,,,47960102,CBA000094812,,name,member
+Günther Hamann,Q1561499,Austrian historian of modern age (1924–1994),member/fellow,International Academy of the History of Science,Q337449,,,39895238,CBA000042129,,name,member
+Hans Adolf Eduard Driesch,Q41476,German philosopher and biologist (1867 - 1941),member/fellow,International Academy of the History of Science,Q337449,,,66593001,CBA000027097,http://viaf.org/viaf/66593001,viaf,member
+Hans Freudenthal,Q77506,Dutch mathematician (1905–1990),member/fellow,International Academy of the History of Science,Q337449,,,109009424,CBA000034025,,name,member
+Hans Kangro,Q50305938,,member/fellow,International Academy of the History of Science,Q337449,,,109580455,CBA000052009,,name,member
+Hans Schimank,Q1582298,German physicist and historian of technology (1888–1979),member/fellow,International Academy of the History of Science,Q337449,,,98186631,CBA000090850,,name,member
+Hans Wußing,Q91385,German historian of mathematics (1927–2011),member/fellow,International Academy of the History of Science,Q337449,,,61632909,,,,member
+Harry Woolf,Q2655250,American historian (1923–2003),member/fellow,International Academy of the History of Science,Q337449,,,51792200,CBA000111390,,name,member
+Heinrich Wieleitner,Q101688,German mathematician and historian of mathematics (1874–1931),member/fellow,International Academy of the History of Science,Q337449,,,74627799,CBA346893266,http://viaf.org/viaf/74627799,viaf,member
+Helmuth Gericke,Q92406,mathematician (1909–2007),member/fellow,International Academy of the History of Science,Q337449,,,52486002,CBA000036491,,name,member
+Henri Berr,Q3100150,French philosopher (1863-1954),member/fellow,International Academy of the History of Science,Q337449,,,14878667,CBA000008389,http://viaf.org/viaf/14878667,viaf,member
+Henri Michel,Q21553679,Belgian engineer and historian of astronomy (1885–1981),member/fellow,International Academy of the History of Science,Q337449,,,89296016,CBA000069113,,name,member
+Henry Guerlac,Q907710,American historian (1910-1985),member/fellow,International Academy of the History of Science,Q337449,,,266692537,CBA000040744,http://viaf.org/viaf/266692537,viaf,member
+Henryk Barycz,Q9287930,Polish historian (1901-1994),member/fellow,International Academy of the History of Science,Q337449,,,34829864,CBA000005928,,name,member
+Herbert Dingle,Q628065,British astronomer and historian of science (1890–1978),member/fellow,International Academy of the History of Science,Q337449,,,64394681,CBA000025908,,name,member
+Heribert Maria Nobis,Q1339673,German naturalist (1924–2017),member/fellow,International Academy of the History of Science,Q337449,,,15209194,CBA000140515,http://viaf.org/viaf/15209194,viaf,member
+Hubert L. L. Busard,Q1633265,Dutch mathematician and historian of mathematics (1923–2007),member/fellow,International Academy of the History of Science,Q337449,,,94394403,CBA000014894,,name,member
+Hugo Dingler,Q216036,German philosopher,member/fellow,International Academy of the History of Science,Q337449,,,41849542,CBA000025910,,name,member
+Humberto Julio Paoli,Q59576522,,member/fellow,International Academy of the History of Science,Q337449,,,,,,,member
+I. Bernard Cohen,Q1347036,American historian of science (1914–2003),member/fellow,International Academy of the History of Science,Q337449,,,109027684,CBA033523925,https://viaf.org/viaf/109027684/,viaf,member
+Ian Mueller,Q109826958,American philosopher,member/fellow,International Academy of the History of Science,Q337449,,,27236059,CBA000072029,,name,member
+Ignacio González Tascón,Q28134774,,member/fellow,International Academy of the History of Science,Q337449,,,71445075,CBA065318290,,name,member
+Ilya Prigogine,Q183509,Russian-Belgian physical chemist (1917–2003),member/fellow,International Academy of the History of Science,Q337449,,,99876969,CBA000081875,,name,member
+Imre Tóth,Q558715,German mathematician and historian of mathematics (1921–2010),member/fellow,International Academy of the History of Science,Q337449,,,54190105,,,,member
+Isaia Iannaccone,Q47108957,,member/fellow,International Academy of the History of Science,Q337449,,,60724986,CBA000048644,,name,member
+István Hajnal,Q1032721,Hungarian historian and palaeographer (1892-1956),member/fellow,International Academy of the History of Science,Q337449,,,9941679,,,,member
+Ivan Kanaev,Q4212109,biologist (1893–1984),member/fellow,International Academy of the History of Science,Q337449,,,84366196,,,,member
+Ivor Grattan-Guinness,Q1252931,Historian of mathematics and logic (1941-2014),member/fellow,International Academy of the History of Science,Q337449,,,49268407,CBA000039443,http://viaf.org/viaf/49268407,viaf,member
+J. Playfair McMurrich,Q6106795,Canadian scholar and anatomy professor (1859–1939),member/fellow,International Academy of the History of Science,Q337449,,,37695671,CBA265681628,,name,member
+J. R. Partington,Q903959,British chemist and historian of science (1886–1965),member/fellow,International Academy of the History of Science,Q337449,,,4518147270695535700008,CBA000077550,,name,member
+Jacques Payen,Q36035296,French historian,member/fellow,International Academy of the History of Science,Q337449,,,44303493,CBA000078049,,name,member
+Jacques Roger,Q3159903,French university teacher (1920-1990),member/fellow,International Academy of the History of Science,Q337449,,,73859332,CBA000086395,,name,member
+Jane M. Oppenheimer,Q20011442,American embryologist and historian (1911-1996),member/fellow,International Academy of the History of Science,Q337449,,,116607233,CBA000140521,http://viaf.org/viaf/116607233,viaf,member
+Jaroslav Milbauer,Q12023959,Czech chemical engineer and university educator (1880–1959),member/fellow,International Academy of the History of Science,Q337449,,,23165945,,,,member
+Jean Filliozat,Q162765,author (1906–1982),member/fellow,International Academy of the History of Science,Q337449,,,109315674,CBA000031848,,name,member
+Jean Gayon,Q16267493,French philosopher (1949-2018),member/fellow,International Academy of the History of Science,Q337449,,,22196661,CBA000036020,,name,member
+Jean Itard,Q1685587,French mathematician and historian of mathematics (1902–1979),member/fellow,International Academy of the History of Science,Q337449,,,24602958,CBA000049291,,name,member
+Jean Piveteau,Q1685766,French scientist (1899–1991),member/fellow,International Academy of the History of Science,Q337449,,,113180315,CBA000080344,,name,member
+Jean Rostand,Q287953,French writer (1894–1977),member/fellow,International Academy of the History of Science,Q337449,,,7396528,CBA000087400,,name,member
+Jean Théodoridès,Q3174800,French parasitologist (1926–1999),member/fellow,International Academy of the History of Science,Q337449,,,9854174,CBA000101569,http://viaf.org/viaf/9854174,viaf,member
+Jean-François Leroy,Q4259300,French botanist (1915-1999),member/fellow,International Academy of the History of Science,Q337449,,,51758273,CBA000140261,http://viaf.org/viaf/51758273,viaf,member
+Jekuthiel Ginsburg,Q6176590,American mathematician (1889-1957),member/fellow,International Academy of the History of Science,Q337449,,,28358299,,,,member
+Jerzy Bukowski,Q8860691,Polish mechanical engineer,member/fellow,International Academy of the History of Science,Q337449,,,101829303,CBA000014287,http://viaf.org/viaf/18272050,name,member
+Jerzy Dobrzycki,Q11724526,Polish astronomer,member/fellow,International Academy of the History of Science,Q337449,,,70396140,CBA000026166,,name,member
+Joachim Otto Fleckenstein,Q1690355,mathematician and historian of mathematics (1914-1980),member/fellow,International Academy of the History of Science,Q337449,,,102383208,CBA000032431,,name,member
+Joaquim Carreras i Artau,Q1284773,Spanish philosopher (1894-1968),member/fellow,International Academy of the History of Science,Q337449,,,88709550,,,,member
+Joaquim de Carvalho,Q1690871,Portuguese philosopher (1892-1958),member/fellow,International Academy of the History of Science,Q337449,,,24610916,,,,member
+Johan Nordström,Q6016170,Swedish academic (1891-1967),member/fellow,International Academy of the History of Science,Q337449,,,11176698,CBA000074573,,name,member
+Johanna Geertruida van Cittert-Eymers,Q2929162,Dutch physicist (1903-1988),member/fellow,International Academy of the History of Science,Q337449,,,191208936,,,,member
+Johannes Steudel,Q1628913,German medical historian (1901–1973),member/fellow,International Academy of the History of Science,Q337449,,,49352250,CBA000098368,,name,member
+Johannes Tropfke,Q103468,German mathematician and historian of mathematics (1866–1939),member/fellow,International Academy of the History of Science,Q337449,,,111620876,CBA000103480,,name,member
+John E. Murdoch,Q1699969,American philosopher of science (1927–2010),member/fellow,International Academy of the History of Science,Q337449,,,19727789,CBA000072526,http://viaf.org/viaf/19727789,viaf,member
+John Farquhar Fulton,Q1700039,American neurophysiologist and historian of science (1899–1960),member/fellow,International Academy of the History of Science,Q337449,,,66595684,CBA000034643,http://viaf.org/viaf/66595684,viaf,member
+John Herivel,Q823292,"British science historian, World War II codebreaker at Bletchley Park (1918–2011)",member/fellow,International Academy of the History of Science,Q337449,,,34569346,CBA000044906,,name,member
+John Kirtland Wright,Q6243229,American geographer,member/fellow,International Academy of the History of Science,Q337449,,,100214886,CBA000111576,,name,member
+John Knight Fotheringham,Q1421803,British historian and chronologist (1874-1936),member/fellow,International Academy of the History of Science,Q337449,,,71384305,CBA138979812,http://viaf.org/viaf/71384305,viaf,member
+John North,Q1699765,British historian of science (1934–2008),member/fellow,International Academy of the History of Science,Q337449,,,4947567,CBA000074637,http://viaf.org/viaf/4947567,viaf,member
+Josep Maria Millàs i Vallicrosa,Q770131,Spanish arabist and historian (1897-1970),member/fellow,International Academy of the History of Science,Q337449,,,111393708,,,,member
+Joseph Bidez,Q549715,Belgian classical philologist (1867–1945),member/fellow,International Academy of the History of Science,Q337449,,,66536121,,,,member
+Joseph Ehrenfried Hofmann,Q109387,German historian of mathematics (1900–1973),member/fellow,International Academy of the History of Science,Q337449,,,109195676,CBA000046454,,name,member
+Joseph Needham,Q318054,"British biochemist, historian and sinologist (1900–1995)",member/fellow,International Academy of the History of Science,Q337449,,,61550127,CBA000073388,http://viaf.org/viaf/61550127,viaf,member
+Joseph Pérès,Q3185532,French mathematician (1890-1962),member/fellow,International Academy of the History of Science,Q337449,,,44291317,,,,member
+José Antonio García-Diego,Q5937832,Spanish engineer and writer,member/fellow,International Academy of the History of Science,Q337449,,,29586383,CBA000139887,,name,member
+José Augusto Sánchez Pérez,Q4116859,Spanish mathematician (1882–1958),member/fellow,International Academy of the History of Science,Q337449,,,114927865,,,,member
+José Joaquín Izquierdo,Q5940781,Mexican university teacher and writer (1893-1974),member/fellow,International Academy of the History of Science,Q337449,,,97926790,CBA000049374,,name,member
+José Manuel Sánchez Ron,Q5942350,Spanish university teacher,member/fellow,International Academy of the History of Science,Q337449,,,95160905,CBA000157947,,name,member
+José María López Piñero,Q9014442,,member/fellow,International Academy of the History of Science,Q337449,,,56628665,CBA000061983,http://viaf.org/viaf/56628665,viaf,member
+Juan Vernet Ginés,Q3810931,Spanish science historian and Arabicist (1923-2011),member/fellow,International Academy of the History of Science,Q337449,,,60028686,CBA000037304,,name,member
+Jules Guiart,Q18744761,French physician and parasitologist (1870–1965),member/fellow,International Academy of the History of Science,Q337449,,,27058804,,,,member
+Julio Rey Pastor,Q503376,Spanish mathematician (1888–1962),member/fellow,International Academy of the History of Science,Q337449,,,32036272,CBA000084697,http://viaf.org/viaf/32036272,viaf,member
+Julio Samsó,Q22443697,"Spanish historian, university teacher and translator",member/fellow,International Academy of the History of Science,Q337449,,,36963929,CBA000089339,,name,member
+Julius Ruska,Q77994,German historian (1867–1949),member/fellow,International Academy of the History of Science,Q337449,,,67258172,,,,member
+Julius Schuster,Q6457504,"German botanist, palaeobotanist and historian of science (1886–1949)",member/fellow,International Academy of the History of Science,Q337449,,,15543229,CBA000092075,http://viaf.org/viaf/15543229,viaf,member
+Karin Figala,Q17496432,Austrian university teacher (1938-2008),member/fellow,International Academy of the History of Science,Q337449,,,8326927,CBA000031769,,name,member
+Karl Eduard Rothschuh,Q1730815,German medical historian (1908–1984),member/fellow,International Academy of the History of Science,Q337449,,,27864041,CBA000140075,http://viaf.org/viaf/27864041,viaf,member
+Karl Popper,Q81244,"Austrian-British philosopher of science and social and política e falsificationism and for criticism of Plato, Hegel and Marx as totalitarian opponents of open society (1902-1994)",member/fellow,International Academy of the History of Science,Q337449,,,88801921,CBA000081078,http://viaf.org/viaf/88801921,viaf,member
+Karl Sudhoff,Q72035,German historian (1853–1938),member/fellow,International Academy of the History of Science,Q337449,,,22214218,CBA000099525,,name,member
+Kazimierz Opałek,Q21159838,Polish jurist,member/fellow,International Academy of the History of Science,Q337449,,,44428407,,,,member
+Kenneth James Franklin,Q21166488,25 November 1897 - 8 May 1966,member/fellow,International Academy of the History of Science,Q337449,,,39764165,,,,member
+Kenneth O. May,Q1398929,American mathematician (1915–1977),member/fellow,International Academy of the History of Science,Q337449,,,55566303,CBA000066504,,name,member
+Kostas Gavroglu,Q26807805,Greek university professor and politician,member/fellow,International Academy of the History of Science,Q337449,,,1174147270405835700000,CBA000035990,,name,member
+Kurt Vogel,Q1794191,German mathematician and historian of mathematics (1888-1985),member/fellow,International Academy of the History of Science,Q337449,,,34468774,CBA000106204,http://viaf.org/viaf/34468774,viaf,member
+Kurt-Reinhard Biermann,Q1793303,German mathematician and historian of mathematics,member/fellow,International Academy of the History of Science,Q337449,,,215826379,CBA000009065,,name,member
+Lev Zenkevici,Q4191413,oceanologist (1889–1970),member/fellow,International Academy of the History of Science,Q337449,,,42741053,,,,member
+Louis Charles Karpinski,Q3709967,American mathematician (1878–1956),member/fellow,International Academy of the History of Science,Q337449,,,51682762,CBA000052276,,name,member
+Louis de Broglie,Q83331,Nobel laureate credited to pioneer the discovery of wave character of matter (1892–1987),member/fellow,International Academy of the History of Science,Q337449,,,4927396,CBA000013077,,name,member
+Ludovico Geymonat,Q1225692,Italian philosopher (1908-1991),member/fellow,International Academy of the History of Science,Q337449,,,112899484,CBA000036703,,name,member
+Luis Cervera Vera,Q15966219,Spanish architect,member/fellow,International Academy of the History of Science,Q337449,,,305991652,,,,member
+Luis de Albuquerque,Q931196,Portuguese teacher and university professor (1917–1992),member/fellow,International Academy of the History of Science,Q337449,,,293653680,,,,member
+Lynn Thorndike,Q357483,American historian of medieval science and alchemy (1882–1965),member/fellow,International Academy of the History of Science,Q337449,,,27853305,CBA000102033,"http://viaf.org/viaf/27853305, http://viaf.org/viaf/27853305",viaf,member
+Léon Brunschvicg,Q951066,French philosopher (1869–1944),member/fellow,International Academy of the History of Science,Q337449,,,29668791,CBA000013830,http://viaf.org/viaf/29668791,viaf,member
+Léon Rosenfeld,Q1063692,Belgian physicist (1904-1974),member/fellow,International Academy of the History of Science,Q337449,,,7430105,CBA000142113,,name,member
+Marcel Florkin,Q901352,biochemist (1900-1979),member/fellow,International Academy of the History of Science,Q337449,,,12368834,CBA000032639,,name,member
+Marian Biskup,Q941762,author in Polish history and Copernicus (1922-2012),member/fellow,International Academy of the History of Science,Q337449,,,100191683,CBA000009456,,name,member
+Mariano Hormigón Blánquez,Q5997775,Spanish mathematician,member/fellow,International Academy of the History of Science,Q337449,,,673495,,,,member
+Marie Boas Hall,Q527805,American historian of science (1919 – 2009),member/fellow,International Academy of the History of Science,Q337449,,,108172925,CBA000041948,http://viaf.org/viaf/108172925,viaf,member
+Marie-Antoinette Tonnelat,Q3291558,French physicist (1912–1980),member/fellow,International Academy of the History of Science,Q337449,,,76393995,CBA000140464,http://viaf.org/viaf/261526705,name,member
+Marie-Thérèse d'Alverny,Q3292283,French historian (1903-1991),member/fellow,International Academy of the History of Science,Q337449,,,41835800,,,,member
+Mario Gliozzi,Q16576387,Italian physicist and science historian (1899-1977),member/fellow,International Academy of the History of Science,Q337449,,,88528230,CBA000037764,,name,member
+Marshall Clagett,Q325282,American historian of science (1916-2005),member/fellow,International Academy of the History of Science,Q337449,,,24617715,CBA000019135,http://viaf.org/viaf/24617715,viaf,member
+Martin Levey,Q22911505,American historian of chemistry,member/fellow,International Academy of the History of Science,Q337449,,,53694,CBA562045518,http://viaf.org/viaf/25369437,viaf,member
+Masao Watanabe,Q11562355,Japanese university teacher,member/fellow,International Academy of the History of Science,Q337449,,,71971663,CBA000107686,,name,member
+Maurice Caullery,Q919914,French botanist and zoologist (1868-1958),member/fellow,International Academy of the History of Science,Q337449,,,29597710,CBA000017193,,name,member
+Maurice Daumas,Q3300631,French chemist and curator (1910-1984),member/fellow,International Academy of the History of Science,Q337449,,,24600276,CBA000023562,,name,member
+Max Jammer,Q1390390,Israeli physicist and philosopher of physics (1915-2010),member/fellow,International Academy of the History of Science,Q337449,,,44429416,CBA000049913,,name,member
+Max Meyerhof,Q12238301,,member/fellow,International Academy of the History of Science,Q337449,,,46777515,CBA000068966,,name,member
+Max Neuburger,Q1913127,Austrian medical historian (1868–1955),member/fellow,International Academy of the History of Science,Q337449,,,17296017,CBA000073690,,name,member
+Max Wellmann,Q1913599,German classical philologist and medical historian (1863–1933),member/fellow,International Academy of the History of Science,Q337449,,,30574074,CBA000108620,,name,member
+Maxime Laignel-Lavastine,Q3302608,French psychiatrist and historian of medicine (1875–1953),member/fellow,International Academy of the History of Science,Q337449,,,19744364,,,,member
+Melvin Kranzberg,Q1919788,American historian (1917–1995),member/fellow,International Academy of the History of Science,Q337449,,,90725559,CBA000055842,,name,member
+Michael Sean Mahoney,Q6834262,American scientist (1939-2008),member/fellow,International Academy of the History of Science,Q337449,,,5032785,CBA000063821,http://viaf.org/viaf/236637306,name,member
+Mieczysław Radwan,Q16577031,Polish historian (1889-1968),member/fellow,International Academy of the History of Science,Q337449,,,101667548,,,,member
+Miguel Asín Palacios,Q2713951,Spanish historian (1871-1944),member/fellow,International Academy of the History of Science,Q337449,,,14765515,,,,member
+Miquel Selga i Trullàs,Q17301202,astronomer,member/fellow,International Academy of the History of Science,Q337449,,,38379181,,,,member
+Mirko Grmek,Q938645,Croatian-French psychiatrist & historian of medicine,member/fellow,International Academy of the History of Science,Q337449,,,76316497,CBA000040249,http://viaf.org/viaf/76316497,viaf,member
+Myles Jackson,Q6947679,American historian of science,member/fellow,International Academy of the History of Science,Q337449,,,306308446,CBA000049490,,name,member
+Nathan Reingold,Q59525215,"born:1927|died:2005|; Reingold, Nathan; Reingold, Nathan, 1927-2005; Reingold, Nathan 1927-2004",member/fellow,International Academy of the History of Science,Q337449,,,109908305,CBA000084255,,name,member
+Nils von Hofsten,Q5809262,"Swedish professor of anatomy and zoology, rector of Uppsala University (1881-1967)",member/fellow,International Academy of the History of Science,Q337449,,,95190319,,,,member
+Olaf Henrik Schmidt,Q29042726,,member/fellow,International Academy of the History of Science,Q337449,,,55300486,,,,member
+Olaf Pedersen,Q2204212,Danish historian of astronomy (1920–1997),member/fellow,International Academy of the History of Science,Q337449,,,3759179,CBA000078279,,name,member
+Olga E'lina,Q120667341,Russian historian,member/fellow,International Academy of the History of Science,Q337449,,,29011052,,,,member
+Olivério Pinto,Q18708650,"Brazilian ornithologist, physician (1896-1981)",member/fellow,International Academy of the History of Science,Q337449,,,118593940,CBA000080172,,name,member
+Otto E. Neugebauer,Q111996,Austrian-American mathematician (1899–1990),member/fellow,International Academy of the History of Science,Q337449,,,108610011,CBA000073701,http://viaf.org/viaf/108610011,viaf,member
+Otto Seydl,Q58199361,Czech astronomer (1884-1959),member/fellow,International Academy of the History of Science,Q337449,,,39418830,,,,member
+Otto Spiess,Q1644048,Swiss mathematician and historian of mathematics (1878-1966),member/fellow,International Academy of the History of Science,Q337449,,,55236324,,,,member
+Owen Gingerich,Q1202177,American astronomer (1930–2023),member/fellow,International Academy of the History of Science,Q337449,,,274876596,CBA000037310,http://viaf.org/viaf/274876596,viaf,member
+Owsei Temkin,Q75312,Russian-born American medical historian (1902–2002),member/fellow,International Academy of the History of Science,Q337449,,,108866294,CBA000101209,http://viaf.org/viaf/108866294,viaf,member
+Paavo Suomalainen,Q11886323,"Finnish ornithologist, zoophysiologist and professor of zoology",member/fellow,International Academy of the History of Science,Q337449,,,60092871,CBA000099738,,name,member
+Paul Bockstaele,Q3087839,Belgian mathematician and university teacher (1920-2009),member/fellow,International Academy of the History of Science,Q337449,,,303401264,CBA000010217,,name,member
+Paul Diepgen,Q1647083,German medical historian (1878–1966),member/fellow,International Academy of the History of Science,Q337449,,,78821772,CBA000025698,,name,member
+Paul Mouy,Q3371882,,member/fellow,International Academy of the History of Science,Q337449,,,2536413,,,,member
+Paul-Marie Delaunay,Q3371018,French botanist and pharmacist (1878 – 1958),member/fellow,International Academy of the History of Science,Q337449,,,46892326,,,,member
+Paulius Slavėnas,Q4422862,Lithuanian astronomer (1901-1991),member/fellow,International Academy of the History of Science,Q337449,,,62357638,,,,member
+Paweł Czartoryski,Q7156155,Polish noble (1924–1999),member/fellow,International Academy of the History of Science,Q337449,,,71413462,,,,member
+Paweł Rybicki,Q11814380,,member/fellow,International Academy of the History of Science,Q337449,,,79490118,,,,member
+Pearl Kibre,Q26998136,American historian,member/fellow,International Academy of the History of Science,Q337449,,,61565443,CBA000053551,,name,member
+Pedro Laín Entralgo,Q2001080,medical researcher (1908-2001),member/fellow,International Academy of the History of Science,Q337449,,,108328947,,,,member
+Petre Sergescu,Q18547827,Romanian mathematician,member/fellow,International Academy of the History of Science,Q337449,,,23310340,CBA543230634,http://viaf.org/viaf/23310340,viaf,member
+Pierre Brunet,Q29184945,French historian of science (1893-1950),member/fellow,International Academy of the History of Science,Q337449,,,100899114,,,,member
+Pierre Costabel,Q3384532,French mathematician and historian (1912-1989),member/fellow,International Academy of the History of Science,Q337449,,,91306892,CBA000021402,http://viaf.org/viaf/91306892,viaf,member
+Pierre Dugac,Q2093396,"French mathematician, historian of mathematics and historian (1926–2000)",member/fellow,International Academy of the History of Science,Q337449,,,9845711,,,,member
+Pierre Huard,Q17304952,"French doctor, medical historian and anthropologist in Indochina (1901-1983)",member/fellow,International Academy of the History of Science,Q337449,,,49235003,CBA000047758,http://viaf.org/viaf/49235003,viaf,member
+Pierre Humbert,Q1804232,French mathematician (1891-1953),member/fellow,International Academy of the History of Science,Q337449,,,46841314,,,,member
+Pierre Pansier,Q59525749,,member/fellow,International Academy of the History of Science,Q337449,,,114525625,,,,member
+Pierre Speziali,Q55770597,,member/fellow,International Academy of the History of Science,Q337449,,,37055898,CBA000097107,,name,member
+Pio Emanuelli,Q3905367,Italian astronomer and historian (1889–1946),member/fellow,International Academy of the History of Science,Q337449,,,5683370,,,,member
+Pyotr Kapitsa,Q172844,Soviet physicist,member/fellow,International Academy of the History of Science,Q337449,,,109027873,,,,member
+Quido Vetter,Q29259427,,member/fellow,International Academy of the History of Science,Q337449,,,83955299,,,,member
+Radha Charan Gupta,Q2125632,Indian mathematician,member/fellow,International Academy of the History of Science,Q337449,,,17158259334302302064,CBA000041105,,name,member
+Raleigh Ashlin Skelton,Q7286887,"archivist, librarian and cartographer (1906–1970)",member/fellow,International Academy of the History of Science,Q337449,,,61632823,CBA000140399,http://viaf.org/viaf/61632823,viaf,member
+Raul Leitão da Cunha,Q10357610,Brazilian politician (1881-1947),member/fellow,International Academy of the History of Science,Q337449,,,8490156497258017740007,,,,member
+Raymond Clare Archibald,Q3930677,Canadian-American mathematician and historian of mathematics (1875–1955),member/fellow,International Academy of the History of Science,Q337449,,,32058154,CBA000002949,http://viaf.org/viaf/32058154,viaf,member
+Raymond Klibansky,Q213996,German-Canadian historian of philosophy (1905–2005),member/fellow,International Academy of the History of Science,Q337449,,,164982700,CBA000054462,,name,member
+Reijer Hooykaas,Q2855960,Dutch historian (1906-1994),member/fellow,International Academy of the History of Science,Q337449,,,20152165,CBA000047050,,name,member
+René Dugas,Q3426129,,member/fellow,International Academy of the History of Science,Q337449,,,29597543,,,,member
+René Taton,Q1388382,French historian of science (1915-2004),member/fellow,International Academy of the History of Science,Q337449,,,32003341,CBA000100849,http://viaf.org/viaf/32003341,viaf,member
+Ricardo Jorge,Q10361161,Portuguese physician (1858-1939),member/fellow,International Academy of the History of Science,Q337449,,,19687398,CBA247399951,http://viaf.org/viaf/19687398,viaf,member
+Richard Harrison Shryock,Q2149716,American medical historian,member/fellow,International Academy of the History of Science,Q337449,,,9912028,CBA367760255,,name,member
+Richard Koch,Q2149965,German medical historian and internist (1882–1949),member/fellow,International Academy of the History of Science,Q337449,,,77113246,CBA000054891,,name,member
+Rita Levi-Montalcini,Q185007,Italian neurologist (1909–2012),member/fellow,International Academy of the History of Science,Q337449,,,85738872,CBA000060097,,name,member
+Robert Gunther,Q2157406,British zoologist (1869–1940),member/fellow,International Academy of the History of Science,Q337449,,,12670671,CBA000041068,http://viaf.org/viaf/12670671,viaf,member
+Robert Haardt,Q2157433,Austrian geographer (1884-1962),member/fellow,International Academy of the History of Science,Q337449,,,2278147907503879210007,,,,member
+Robert P. Multhauf,Q7348228,American historian of science (1919–2004),member/fellow,International Academy of the History of Science,Q337449,,,88167628,CBA000072349,http://viaf.org/viaf/209019625,name,member
+Robert Steele,Q15432539,"British scholar, editor of Roger Bacon",member/fellow,International Academy of the History of Science,Q337449,,,37297979,CBA000097885,,name,member
+Roberto Almagià,Q2904093,Italian geographer (1884-1962),member/fellow,International Academy of the History of Science,Q337449,,,68977835,CBA000164926,,name,member
+Roberto Marcolongo,Q514677,Italian mathematician (1862-1943),member/fellow,International Academy of the History of Science,Q337449,,,25362227,CBA000064789,http://viaf.org/viaf/143510158,name,member
+Roger Hahn,Q52158640,historian of science,member/fellow,International Academy of the History of Science,Q337449,,,9955334,CBA000041717,,name,member
+Roy Porter,Q354728,British historian of medicine (1946–2002),member/fellow,International Academy of the History of Science,Q337449,,,23033,CBA530327049,http://viaf.org/viaf/15159233892303370387,viaf,member
+Rudolf Fueter,Q1532992,Swiss mathematician (1880-1950),member/fellow,International Academy of the History of Science,Q337449,,,34534459,CBA000034559,http://viaf.org/viaf/34534459,viaf,member
+Rudolph Zaunick,Q2174498,German historian and biologist (1893–1967),member/fellow,International Academy of the History of Science,Q337449,,,40171694,CBA000112806,,name,member
+Samuel Dickstein,Q321952,Polish mathematician (1851-1939),member/fellow,International Academy of the History of Science,Q337449,,,17354897,CBA976499710,http://viaf.org/viaf/17354897,viaf,member
+Samuel Sambursky,Q48688470,Israeli historian (1900-1990),member/fellow,International Academy of the History of Science,Q337449,,,22155968,,,,member
+Shigeru Nakayama,Q11364272,Japanese historian of science (1928-2014),member/fellow,International Academy of the History of Science,Q337449,,,108136378,CBA000073046,,name,member
+Shimon Fritz Bodenheimer,Q7496986,"Israeli entomologist, zoologist, biologist (1897-1959)",member/fellow,International Academy of the History of Science,Q337449,,,79091256,CBA754077482,http://viaf.org/viaf/79091256,viaf,member
+Siegfried Heller,Q29168613,,member/fellow,International Academy of the History of Science,Q337449,,,281754157,,,,member
+Solomon Gandz,Q7558609,Austrian historian (1883–1954),member/fellow,International Academy of the History of Science,Q337449,,,2838061,,,,member
+Stefan Amsterdamski,Q7940927,Polish philosopher (1929–2005),member/fellow,International Academy of the History of Science,Q337449,,,64084451,CBA000002104,,name,member
+Sten Lindroth,Q5957946,Swedish historian (1914–1980),member/fellow,International Academy of the History of Science,Q337449,,,33009173,CBA000060971,,name,member
+Stillman Drake,Q2349689,Canadian academic (1910–1993),member/fellow,International Academy of the History of Science,Q337449,,,108296373,CBA000026976,http://viaf.org/viaf/108296373,viaf,member
+Suketoshi Yajima,Q11584075,Japanese science historian (1903–1995),member/fellow,International Academy of the History of Science,Q337449,,,108517670,,,,member
+Suzanne Bachelard,Q3505892,French philosopher (1919-2007),member/fellow,International Academy of the History of Science,Q337449,,,79055910,CBA000004170,,name,member
+Suzanne Débarbat,Q30118593,French astronomer,member/fellow,International Academy of the History of Science,Q337449,,,6072024,CBA000024094,,name,member
+Tamotsu Murata,Q11523403,Japanese philosopher,member/fellow,International Academy of the History of Science,Q337449,,,108191408,CBA000072504,,name,member
+Thomas Kuhn,Q184980,"American historian, physicist and philosopher (1922 – 1996)",member/fellow,International Academy of the History of Science,Q337449,,,22144060,CBA000056513,http://viaf.org/viaf/22144060,viaf,member
+Thomas Little Heath,Q925037,"British civil servant, mathematician and classicist (1861–1940)",member/fellow,International Academy of the History of Science,Q337449,,,7457202,CBA298747757,http://viaf.org/viaf/7457202,viaf,member
+Tom Whiteside,Q1200127,British mathematician and historian of mathematics (1932–2008),member/fellow,International Academy of the History of Science,Q337449,,,262811787,CBA000109371,http://viaf.org/viaf/262811787,viaf,member
+Tore Frängsmyr,Q5746257,Swedish historian (1938–2017),member/fellow,International Academy of the History of Science,Q337449,,,98359590,CBA000033533,,name,member
+Ugo Cassina,Q4002767,Italian mathematician (1897-1964),member/fellow,International Academy of the History of Science,Q337449,,,91574726,,,,member
+Uta Lindgren,Q15444689,German historian of technology and medievalist,member/fellow,International Academy of the History of Science,Q337449,,,221637264,CBA000060940,,name,member
+Vasco Ronchi,Q7916425,Italian physicist (1897-1988),member/fellow,International Academy of the History of Science,Q337449,,,67674189,CBA000086775,,name,member
+Victor Gomoiu,Q12743387,"Romanian surgeon, anatomist, folklorist (1882 - 1960)",member/fellow,International Academy of the History of Science,Q337449,,,84821596,,,,member
+Vincent Jullien,Q93226324,French philosopher,member/fellow,International Academy of the History of Science,Q337449,,,36935991,CBA000051474,,name,member
+Walter Gerlach,Q61745,German physicist (1889-1979),member/fellow,International Academy of the History of Science,Q337449,,,114589075,,,,member
+Walter Pagel,Q75242,pathologist and medical historian (1898-1983),member/fellow,International Academy of the History of Science,Q337449,,,76321014,CBA000076655,http://viaf.org/viaf/76321014,viaf,member
+Wang Ling,Q7967543,Australian historian (1917–1994),member/fellow,International Academy of the History of Science,Q337449,,,100223079,,,,member
+William Henri Schopfer,Q17194423,Swiss botanist (1900-1962),member/fellow,International Academy of the History of Science,Q337449,,,203326592,,,,member
+William Henry Welch,Q174743,American physician and scientist (1850–1934),member/fellow,International Academy of the History of Science,Q337449,,,67246603,CBA000108574,http://viaf.org/viaf/67246603,viaf,member
+Willy Hartner,Q99857,German polymath (1905–1981),member/fellow,International Academy of the History of Science,Q337449,,,64799127,CBA000043236,http://viaf.org/viaf/64799127,viaf,member
+Wolfgang Kaunzner,Q15444384,German mathematician and historian of mathematics,member/fellow,International Academy of the History of Science,Q337449,,,12411472,CBA000052544,,name,member
+Wu Lien-teh,Q1036871,Malaysian physician (1879–1960),member/fellow,International Academy of the History of Science,Q337449,,,5741259,CBA000111660,http://viaf.org/viaf/5741259,viaf,member
+Władysław Szumowski,Q57264799,"Polish physician, historian, and philosopher",member/fellow,International Academy of the History of Science,Q337449,,,84821434,CBA000100324,,name,member
+Włodzimierz Hubicki,Q9382652,Polish chemist (1914-1977),member/fellow,International Academy of the History of Science,Q337449,,,55831275,,,,member
+Yehuda Elkana,Q674208,Israeli philosopher (1934-2012),member/fellow,International Academy of the History of Science,Q337449,,,108274001,CBA000029010,,name,member
+Yoshio Mikami,Q251702,Japanese mathematician (1875-1950),member/fellow,International Academy of the History of Science,Q337449,,,9931258,CBA000069294,http://viaf.org/viaf/9931258,viaf,member
+Yvonne Dold-Samplonius,Q2602365,"Dutch mathematician, historian of mathematics and historian (1937-2014)",member/fellow,International Academy of the History of Science,Q337449,,,66557192,CBA000026307,,name,member
+Zdeněk Frankenberger,Q12779338,Czech entomologist,member/fellow,International Academy of the History of Science,Q337449,,,23167962,,,,member
+Zofia Ameisenowa,Q9391705,,member/fellow,International Academy of the History of Science,Q337449,,,5953923,,,,member
+Zoltán Szőkefalvi-Nagy,Q20478701,,member/fellow,International Academy of the History of Science,Q337449,,,4951511,,,,member
+Émile Guyénot,Q3588552,French biologist (1885-1963),member/fellow,International Academy of the History of Science,Q337449,,,109851191,CBA000041286,,name,member
+Émile Meyerson,Q286232,"Polish-born French epistemologist, chemist, and philosopher of science",member/fellow,International Academy of the History of Science,Q337449,,,64009283,CBA000068992,,name,member
+Éva Vámos,Q21065215,Hungarian historian (1950–2015),member/fellow,International Academy of the History of Science,Q337449,,,16136349,CBA000160784,,name,member
+Ørjan Olsen,Q59241114,Norwegian zoologist (1885–1972),member/fellow,International Academy of the History of Science,Q337449,,,188452666,,,,member
+Ștefan Bălan,Q12744277,Mayor of Bucharest,member/fellow,International Academy of the History of Science,Q337449,,,93101250,,,,member
+Vladimir Kuznetsov,Q4244958,historian of chemistry,staff/affiliated,International Academy of the History of Science,Q337449,,,23536593,CBA000056876,,name,employer
+Kenneth O. May,Q1398929,American mathematician (1915–1977),member/fellow,International Commission on the History of Mathematics,Q41713653,,,55566303,CBA000066504,,name,member
+Jean-Charles Sournia,Q33137444,French surgeon (1917–2000),member/fellow,International Society for the History of Medicine,Q6053434,,,68936051,CBA000096781,http://viaf.org/viaf/192012889,name,member
+Jerzy Strojnowski,Q11725457,Polish psychiatrist,member/fellow,International Society for the History of Medicine,Q6053434,,,77712041,,,,member
+János Baradlai,Q67166818,"Hungarian pharmacist, historian of pharmacy",member/fellow,International Society for the History of Pharmacy,Q17322448,,,166156563520423241383,,,,member
+David Marshall Miller,Q104214475,American philosophy professor,member/fellow,International Society for the History of Philosophy of Science,Q6053438,,,302291300,CBA000069502,,name,member
+Patrick J. Boner,Q101438764,historian of science,member/fellow,International Society for the History of Philosophy of Science,Q6053438,,,236459928,CBA000010736,,name,member
+Paul Bernays,Q122318,Swiss mathematician (1888–1977),member/fellow,International Society for the History of Philosophy of Science,Q6053438,,,39455306,CBA000008276,,name,member
+Louis de Broglie,Q83331,Nobel laureate credited to pioneer the discovery of wave character of matter (1892–1987),President of the International Union of History and Philosophy of Science,International Union of History and Philosophy of Science,Q6054107,1953,1956,4927396,CBA000013077,,name,position
+Wilfrid Hodges,Q451634,British mathematician,President of the International Union of History and Philosophy of Science,International Union of History and Philosophy of Science,Q6054107,2010,2011,44358501,CBA000046213,,name,position
+Alfred Tarski,Q207534,Polish-American logician (1901-1983),member/fellow,International Union of History and Philosophy of Science,Q6054107,,,88667191,CBA000100786,,name,member
+Erwin N. Hiebert,Q28038698,Canadian-American physicist (1919–2012),member/fellow,International Union of History and Philosophy of Science,Q6054107,,,109420279,CBA000045517,,name,member
+Helena Rasiowa,Q455501,Polish mathematician (1917-1994),member/fellow,International Union of History and Philosophy of Science,Q6054107,,,46889273,,,,member
+Jim Bennett,Q6193623,British historian of science and museum curator,member/fellow,International Union of History and Philosophy of Science,Q6054107,,,208035093,CBA000007663,,name,member
+Curt John Ducasse,Q1134374,American philosopher (1881–1969),chairperson/president,Philosophy of Science Association,Q7186252,1958,1961,71474746,,,,chairperson
+Alison Wylie,Q4727229,philosopher of philosophy,chairperson/president,Philosophy of Science Association,Q7186252,,,66595049,CBA000111812,,name,chairperson
+Aaron Novick,Q91376074,professor of philosophy,member/fellow,Philosophy of Science Association,Q7186252,,,,CBA124825922,,name,member
+Benjamin Feintzeig,Q102489160,professor of philosophy,member/fellow,Philosophy of Science Association,Q7186252,,,,,,,member
+David Marshall Miller,Q104214475,American philosophy professor,member/fellow,Philosophy of Science Association,Q7186252,,,302291300,CBA000069502,,name,member
+Lynn Hankinson Nelson,Q106378365,professor of philosophy,member/fellow,Philosophy of Science Association,Q7186252,,,111050550,CBA000073550,,name,member
+Peter K. Machamer,Q16847586,American philosopher and historian of science,member/fellow,Philosophy of Science Association,Q7186252,,,5085732,CBA000063260,,name,member
+Robert Bishop,Q55077112,professor of physics and philosophy,member/fellow,Philosophy of Science Association,Q7186252,,,74093079,CBA000009449,,name,member
+Robert O'Connor,Q95982899,professor of philosophy,member/fellow,Philosophy of Science Association,Q7186252,,,,CBA000075016,,name,member
+Sherrilyn Roush,Q7495367,American epistemologist and philosophy professor,member/fellow,Philosophy of Science Association,Q7186252,,,49511318,CBA000087634,,name,member
+John F. Kasson,Q21178816,American historian,member/fellow,Society for the History of Technology,Q2296883,,,33166374,CBA000052356,,name,member
+Michael R. Curry,Q129855181,American geographer and professor emeritus,member/fellow,Society for the History of Technology,Q2296883,,,44461710,,,,member
+Pamela H. Smith,Q28027754,historian of science,member/fellow,Society for the History of Technology,Q2296883,,,191150061,CBA000095915,http://viaf.org/viaf/191150061,viaf,member
+Sławomir Łotysz,Q24431396,,member/fellow,Society for the History of Technology,Q2296883,,,305391482,,,,member
+André Doyon,Q124659377,(1906-1988),member/fellow,Société française d'histoire des sciences et des techniques,Q47119489,,,19767361,,,,member
+Vincent Jullien,Q93226324,French philosopher,member/fellow,Société française d'histoire des sciences et des techniques,Q47119489,,,36935991,CBA000051474,,name,member

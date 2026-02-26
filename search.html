@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search - IsisCB Projects PEOPLE</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/isiscb-base.css">
+  <link rel="stylesheet" href="styles/app.css">
+  <style>mark { background: #fef3cd; padding: 0 2px; border-radius: 2px; }</style>
+</head>
+<body>
+  <header class="app-header">
+    <div class="app-logo">
+      <div class="app-logo-line"></div>
+      <div class="app-logo-line"></div>
+      <div class="app-logo-line"></div>
+    </div>
+    <div class="app-branding">
+      <span class="app-title">IsisCB Projects</span>
+      <span class="app-project-name">People</span>
+    </div>
+  </header>
+  <nav class="app-nav">
+    <a href="index.html">Home</a>
+    <a href="directory.html">Directory</a>
+    <a href="search.html">Search</a>
+    <a href="graph.html">Network</a>
+    <a href="downloads.html">Downloads</a>
+  </nav>
+
+  <main class="app-main">
+    <h2>Search Scholars</h2>
+    <p style="color:var(--charcoal-blue);margin-bottom:1rem;">Search by name, description, journal, organization, or award.</p>
+
+    <input type="text" id="search-input" class="search-page-input" placeholder="Start typing a name, journal, or organization..." autocomplete="off">
+
+    <div class="search-results" id="search-results">
+      <div style="padding:2rem;text-align:center;color:var(--charcoal-blue);">Type at least 2 characters to search</div>
+    </div>
+  </main>
+
+  <script src="scripts/data.js"></script>
+  <script src="scripts/search.js"></script>
+</body>
+</html>

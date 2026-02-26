@@ -1,0 +1,133 @@
+person_qid,person_name,journal_qid,journal_name,role,start_date,end_date,person_description,isiscb_id,viaf_id,orcid,source
+Q5424045,F. Sherwood Taylor,Q4741520,Ambix,founder/editor,1937,,British historian of science,,39491771,,wikidata
+,Desmond Geoghegan,Q4741520,Ambix,editor,1956,,,,,,"web:ambix.org"
+,W. H. Brock,Q4741520,Ambix,editor,1967,,British historian of science,,,,"web:ambix.org"
+,Bruce Moran,Q4741520,Ambix,editor,,,American historian of science,,,,"web:ambix.org"
+,,,,,,,,,,,,
+,Harcourt Brown,Q282682,Annals of Science,founding editor,1936,1974,Canadian historian of science,,32924207,,"web:tandfonline"
+,Douglas McKie,Q282682,Annals of Science,founding editor,1936,1967,British chemist and historian of science,,,,"web:tandfonline"
+,H. W. Robinson,Q282682,Annals of Science,editor,1936,1960,,,,,"web:tandfonline"
+,N. H. de V. Heathcote,Q282682,Annals of Science,editor,1947,1952,,,,,"web:tandfonline"
+,W. A. Smeaton,Q282682,Annals of Science,editor,1960,1965,,,,,"web:tandfonline"
+,F. W. Gibbs,Q282682,Annals of Science,editor,1961,1965,,,,,"web:tandfonline"
+,T. I. Williams,Q282682,Annals of Science,editor,1966,1973,,,,,"web:tandfonline"
+,R. E. W. Maddison,Q282682,Annals of Science,editor,1966,1974,,,,,"web:tandfonline"
+,H. J. Sharlin,Q282682,Annals of Science,editor,1969,1975,,,,,"web:tandfonline"
+,H. Kangro,Q282682,Annals of Science,editor,1969,1972,,,,,"web:tandfonline"
+Q7130117,Ivor Grattan-Guinness,Q282682,Annals of Science,editor,1974,1981,British historian of mathematics,,119299270,,"web:tandfonline"
+,G. L. E. Turner,Q282682,Annals of Science,editor,1981,1998,,,,,"web:tandfonline"
+Q7155671,Trevor Levere,Q282682,Annals of Science,editor,1999,2014,Canadian historian of science,,163932,,,"web:tandfonline"
+Q18810889,Rob Iliffe,Q282682,Annals of Science,editor,2011,2019,British historian of science,,,,"web:tandfonline"
+,David Miller,Q282682,Annals of Science,editor,2014,2019,,,,,"web:tandfonline"
+,,,,,,,,,,,,
+Q25700,Clifford Truesdell,Q4787264,Archive for History of Exact Sciences,founding editor,1960,,American mathematician (1919–2000),,44364706,,"web:springer"
+,,,,,,,,,,,,
+Q2503342,N. H. de V. Heathcote,,British Journal for the History of Science,editor,1947,1962,editor of predecessor Bulletin,,,,"web:cambridge"
+,H. D. Anthony,Q2503342,British Journal for the History of Science,editor,1962,1966,,,,,"web:cambridge"
+Q561424,Maurice Crosland,Q2503342,British Journal for the History of Science,editor,1966,1971,British historian of science,,80362,,,"web:cambridge"
+Q380038,Robert Fox,Q2503342,British Journal for the History of Science,editor,1971,1976,British historian of science,,29594074,,"web:cambridge"
+,Nicholas W. Fisher,Q2503342,British Journal for the History of Science,editor,1977,1982,,,,,"web:cambridge"
+Q15994570,David Knight,Q2503342,British Journal for the History of Science,editor,1982,1989,British historian of science,,275847,,"web:cambridge"
+,Jon Agar,Q2503342,British Journal for the History of Science,editor,,,British historian of science and technology,,,,"web:cambridge"
+,Charlotte Sleigh,Q2503342,British Journal for the History of Science,editor,,,British historian of science,,,,"web:cambridge"
+,Amanda Rees,Q2503342,British Journal for the History of Science,editor,,,University of York,,,,"web:cambridge"
+,,,,,,,,,,,,
+Q4996846,Henry Sigerist,,Bulletin of the History of Medicine,founding editor,1933,,Swiss medical historian (1891–1957),,29642164,,"web:jhu"
+Q2053700,Owsei Temkin,Q4996846,Bulletin of the History of Medicine,editor,1948,1968,"American medical historian (1902–2002)",,51701510,,"web:jhu"
+,Jeremy A. Greene,Q4996846,Bulletin of the History of Medicine,editor,,,Johns Hopkins University,,,,"web:jhu"
+,Alisha Rankin,Q4996846,Bulletin of the History of Medicine,editor,,,Tufts University,,,,"web:jhu"
+,Gabriela Soto Laveaga,Q4996846,Bulletin of the History of Medicine,editor,,,Harvard University,,,,"web:jhu"
+,,,,,,,,,,,,
+Q65096659,Koen Vermeir,Q1053506,Centaurus,editor-in-chief,,,"Research Professor, GYA Co-Chair",,226438372,0000-0002-7903-3512,wikidata
+,,,,,,,,,,,,
+,Christoph Lüthy,Q15754205,Early Science and Medicine,editor-in-chief,,,Radboud University Nijmegen,,,,"web:brill"
+,,,,,,,,,,,,
+,Edward Guimont,Q15755690,Endeavour,co-editor-in-chief,,,Bristol Community College,,,,"web:elsevier"
+,Sarah Pickman,Q15755690,Endeavour,co-editor-in-chief,,,,,,,"web:elsevier"
+,,,,,,,,,,,,
+Q1398929,Kenneth O. May,Q3330664,Historia Mathematica,founder/editor,1974,1977,American mathematician (1915–1977),,55566303,,wikidata
+Q67195,Christoph J. Scriba,Q3330664,Historia Mathematica,editor,1977,,German historian of mathematics (1929–2013),,109165963,,"web:mathunion"
+Q1623393,Eberhard Knobloch,Q3330664,Historia Mathematica,editor,,,German historian of mathematics and science,,14821441,,"web:mathunion"
+Q7293498,David E. Rowe,Q3330664,Historia Mathematica,editor,,,American historian of mathematics,,24776693,,"web:mathunion"
+Q2702255,Karen Hunger Parshall,Q3330664,Historia Mathematica,editor,1994,,American historian of mathematics,,115093159,,"web:mathunion"
+,Jeffrey Oaks,Q3330664,Historia Mathematica,co-editor-in-chief,,,,,,,"web:mathunion"
+,Marco Panza,Q3330664,Historia Mathematica,co-editor-in-chief,,,philosopher of mathematics,,,,"web:mathunion"
+,,,,,,,,,,,,
+Q5773969,Russell McCormmach,,Historical Studies in the Natural Sciences,founding editor,1969,1979,American historian of physics,,112097163,,"web:ucpress"
+Q1625636,John L. Heilbron,Q5773969,Historical Studies in the Natural Sciences,editor,1980,2007,American historian of science,,108543050,,"web:ucpress"
+,Cathryn Carson,Q5773969,Historical Studies in the Natural Sciences,editor,2008,,UC Berkeley,,,,"web:ucpress"
+,Joseph D. Martin,Q5773969,Historical Studies in the Natural Sciences,editor,,,,,,,"web:ucpress"
+,,,,,,,,,,,,
+,Rens Bod,Q59425900,History of Humanities,founding editor,2016,,University of Amsterdam,,,,"web:uchicago"
+,Julia Kursell,Q59425900,History of Humanities,founding editor,2016,,musicologist and historian of science,,,,"web:uchicago"
+,Jaap Maat,Q59425900,History of Humanities,founding editor,2016,,philosopher,,,,"web:uchicago"
+,Thijs Weststeijn,Q59425900,History of Humanities,founding editor,2016,,art historian,,,,"web:uchicago"
+,,,,,,,,,,,,
+Q107192447,,,History of Science,editor,,,,,,,"missing"
+,,,,,,,,,,,,
+Q1316061,George Sarton,Q689414,Isis,founder/editor,1913,1952,Belgian-American historian of science (1884–1956),,64049239,,wikidata
+Q918972,I. Bernard Cohen,Q689414,Isis,editor,1952,1958,American historian of science (1914–2003),,56629192,,"web:hssonline"
+Q6240953,Harry Woolf,Q689414,Isis,editor,1959,1963,American historian of science,,108538953,,"web:hssonline"
+Q7357373,Robert P. Multhauf,Q689414,Isis,editor,1964,1978,American historian of science and technology,,108540755,,"web:hssonline"
+Q7229,Arnold Thackray,Q689414,Isis,editor,1979,1985,British-American historian of science,,50359,,,"web:hssonline"
+Q5109109,Charles E. Rosenberg,Q689414,Isis,editor,1986,1988,American historian of science and medicine,,91495925,,"web:hssonline"
+Q7354825,Ronald Numbers,Q689414,Isis,editor,1989,1993,American historian of science (1942–2023),,108488938,,"web:hssonline"
+Q7368866,Margaret W. Rossiter,Q689414,Isis,editor,1994,2003,American historian of science,,108552825,,"web:hssonline"
+Q4893377,Bernard Lightman,Q689414,Isis,editor,2004,2014,Canadian historian of science,,93187517,,wikidata
+Q21170064,H. Floris Cohen,Q689414,Isis,editor,2014,2019,Dutch historian of science,,61668032,,"web:hssonline"
+,Alexandra Hui,Q689414,Isis,co-editor,2019,2024,,,,,"web:hssonline"
+,Matthew Lavine,Q689414,Isis,co-editor,2019,2024,,,,,"web:hssonline"
+,Projit Bihari Mukharji,Q689414,Isis,co-editor,2024,,,,,,"web:hssonline"
+,Elise K. Burton,Q689414,Isis,co-editor,2024,,,,,,"web:hssonline"
+,,,,,,,,,,,,
+Q3186886,Michael Hoskin,,Journal for the History of Astronomy,founding editor,1970,,British historian of astronomy,,109144782,,"web:sagepub"
+,James Evans,Q3186886,Journal for the History of Astronomy,editor,,,University of Puget Sound,,,,"web:sagepub"
+,,,,,,,,,,,,
+Q15710008,,,Journal of the History of Medicine and Allied Sciences,editor,,,,,,,"missing"
+,,,,,,,,,,,,
+,Gregory Radick,Q15762863,Metascience,editor-in-chief,,,University of Leeds,,,,"web:springer"
+,K. Brad Wray,Q15762863,Metascience,former editor,,,Aarhus University,,,,"web:springer"
+,Jonathan Simon,Q15762863,Metascience,former editor,,,Université de Lorraine,,,,"web:springer"
+,,,,,,,,,,,,
+Q348649,Edward Shils,Q15817918,Minerva,founding editor,1962,1995,American sociologist (1910–1995),,110476301,,web:springer
+Q1409691,Peter Weingart,Q15817918,Minerva,editor,2008,,German sociologist,,264178258,0000-0002-8275-525X,wikidata
+,,,,,,,,,,,,
+,Anita Guerrini,Q7062588,Notes and Records of the Royal Society,editor-in-chief,,,historian of science,,,,"web:royalsociety"
+,,,,,,,,,,,,
+,Maria Luisa Righini Bonelli,Q15752991,Nuncius,founding editor,1976,,Italian historian of science,,,,"web:brill"
+,Elena Canadelli,Q15752991,Nuncius,editor-in-chief,2021,,University of Padua,,,,"web:brill"
+,,,,,,,,,,,,
+Q1316061,George Sarton,Q1385493,Osiris,founder/editor,1936,1968,Belgian-American historian of science (1884–1956),,64049239,,wikidata
+,Elaine Leong,Q1385493,Osiris,co-editor,,,University College London,,,,"web:uchicago"
+,Ahmed Ragab,Q1385493,Osiris,co-editor,,,Johns Hopkins School of Medicine,,,,"web:uchicago"
+,Myrna Perez Sheldon,Q1385493,Osiris,co-editor,,,Ohio University,,,,"web:uchicago"
+,,,,,,,,,,,,
+,Alexander Levine,Q7170766,Perspectives on Science,co-editor-in-chief,,,University of South Florida,,,,"web:mitpress"
+,,,,,,,,,,,,
+Q15757330,William Malisoff,,Philosophy of Science,founding editor,1934,1947,American philosopher of science,,,,"web:cambridge"
+,C. West Churchman,Q1739521,Philosophy of Science,editor,1947,1957,American philosopher and systems scientist,,,,"web:cambridge"
+,Richard Rudner,Q1739521,Philosophy of Science,editor,1957,,,,,,"web:cambridge"
+Q2474413,Kenneth F. Schaffner,Q1739521,Philosophy of Science,editor,,,American philosopher of science,,1554889,,"web:cambridge"
+Q312693,Philip Kitcher,Q1739521,Philosophy of Science,editor,,,British-American philosopher of science,,32081167,,"web:cambridge"
+,James Owen Weatherall,Q1739521,Philosophy of Science,editor-in-chief,,,UC Irvine,,,,"web:cambridge"
+,,,,,,,,,,,,
+,Emmylou Haffner,Q15761462,Revue d'Histoire des Sciences,editor-in-chief,,,,,,,"web:armand-colin"
+,,,,,,,,,,,,
+,Anna Echterhölter,Q15752392,Science in Context,editor,,,University of Vienna,,,,"web:cambridge"
+Q60702,Jürgen Renn,Q15752392,Science in Context,editor,,,Max Planck Institute for the History of Science,,111454839,,"web:cambridge"
+,Yosef Schwartz,Q15752392,Science in Context,editor,,,Tel Aviv University,,,,"web:cambridge"
+,,,,,,,,,,,,
+Q15547792,David Edge,Q7550865,Social Studies of Science,founding editor,1971,2002,British sociologist of science (1932–2003),,38330107,,"web:sagepub"
+Q1341459,Roy MacLeod,Q7550865,Social Studies of Science,founding editor,1971,1991,British-Australian historian of science,,27084050,,"web:sagepub"
+Q6934455,Michael Lynch,Q7550865,Social Studies of Science,editor,2002,2012,American sociologist of science,,44428506,,"web:sagepub"
+,Sergio Sismondo,Q7550865,Social Studies of Science,editor-in-chief,,,Queen's University,,,,"web:sagepub"
+,Nicole Nelson,Q7550865,Social Studies of Science,editor-in-chief,,,University of Wisconsin-Madison,,,,"web:sagepub"
+,,,,,,,,,,,,
+Q28126629,,,Studies in History and Philosophy of Science,editor,,,,,,,"missing"
+,Darrell P. Rowbottom,Q28126629,Studies in History and Philosophy of Science,editor-in-chief,,,Lingnan University,,,,"web:elsevier"
+,,,,,,,,,,,,
+Q2602683,Melvin Kranzberg,Q7692591,Technology and Culture,founding editor,1959,1981,American historian of technology (1917–1995),,109213891,,"web:shot"
+,Robert C. Post,Q7692591,Technology and Culture,editor,1982,1995,,,,,"web:shot"
+,John M. Staudenmaier,Q7692591,Technology and Culture,editor,1996,2010,,,,,"web:shot"
+,Suzanne Moon,Q7692591,Technology and Culture,editor,2011,2021,University of Oklahoma,,,,"web:shot"
+,Ruth Oldenziel,Q7692591,Technology and Culture,editor-in-chief,2022,,Eindhoven University of Technology,,,,"web:shot"

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IsisCB Projects - PEOPLE</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/isiscb-base.css">
+  <link rel="stylesheet" href="styles/app.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="app-logo">
+      <div class="app-logo-line"></div>
+      <div class="app-logo-line"></div>
+      <div class="app-logo-line"></div>
+    </div>
+    <div class="app-branding">
+      <span class="app-title">IsisCB Projects</span>
+      <span class="app-project-name">People</span>
+    </div>
+  </header>
+  <nav class="app-nav">
+    <a href="index.html" class="active">Home</a>
+    <a href="directory.html">Directory</a>
+    <a href="search.html">Search</a>
+    <a href="graph.html">Network</a>
+    <a href="downloads.html">Downloads</a>
+  </nav>
+
+  <main class="app-main">
+    <div class="narrative">
+      <h2>The People Behind the History of Science</h2>
+      <p>
+        The history of science as a professional discipline took shape in the early twentieth century, anchored by a small cohort of scholars who simultaneously founded its journals, its learned societies, and its first university programs. George Sarton, who launched <em>Isis</em> in Belgium in 1912 and then carried it to the United States after World War I, is the emblematic figure of this founding generation &mdash; but he was far from alone. Charles Singer in London helped establish the British Society for the History of Science and edited early volumes of several journals, while scholars across Continental Europe created the International Academy of the History of Science, whose membership would eventually span more than fifty countries.
+      </p>
+      <p>
+        Institutionalization accelerated at mid-century. The History of Science Society formalized its governance and award structure, introducing the George Sarton Medal (1955) and later the Pfizer Award for outstanding scholarship. Parallel societies emerged for the history of medicine, technology, and mathematics, each with its own officer corps drawn from a partially overlapping pool of historians. The journal landscape expanded as well: <em>Annals of Science</em>, <em>The British Journal for the History of Science</em>, <em>Historia Mathematica</em>, <em>Technology and Culture</em>, and <em>Social Studies of Science</em> all established editorial boards that became important nodes of professional influence. A single scholar might simultaneously sit on an academy, edit a journal, and receive a prize &mdash; and this data captures exactly those intersections.
+      </p>
+      <p>
+        The network visible here reveals the international and interdisciplinary character of the field. The International Academy of the History of Science alone links hundreds of scholars across national boundaries, while journal editorships connect historians of different sub-specializations. Prizes like the Koy&eacute; Medal (international) and the Rossiter Prize (recognizing work on women in science) mark evolving values within the profession. What emerges from these 761 scholars and their roles is a portrait of a discipline built through sustained, overlapping institutional commitments &mdash; a community where the same names recur as editors, officers, and laureates, weaving a dense fabric of scholarly life over more than a century.
+      </p>
+    </div>
+
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-number" id="stat-people">-</div>
+        <div class="stat-label">Scholars</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="stat-awards">-</div>
+        <div class="stat-label">Awards</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="stat-journals">-</div>
+        <div class="stat-label">Journals</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="stat-orgs">-</div>
+        <div class="stat-label">Organizations</div>
+      </div>
+    </div>
+
+    <div class="chart-row">
+      <div class="chart-container">
+        <h3>Activity by Decade</h3>
+        <div id="timeline-chart"></div>
+      </div>
+      <div class="chart-container">
+        <h3>Most Connected Scholars</h3>
+        <div id="top-connected"></div>
+      </div>
+    </div>
+
+    <div class="chart-container">
+      <h3>Organizations by Number of People</h3>
+      <div id="org-chart"></div>
+    </div>
+
+    <footer style="margin-top:2rem;padding-top:1rem;border-top:1px solid var(--sky-light);font-size:var(--text-xs);color:var(--charcoal-blue);text-align:center;">
+      Data sourced from <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>.
+      Part of <a href="https://isiscb.org" target="_blank" rel="noopener">IsisCB Projects</a>.
+      <a href="downloads.html">Download source data</a>.
+    </footer>
+  </main>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="scripts/data.js"></script>
+  <script src="scripts/home.js"></script>
+</body>
+</html>

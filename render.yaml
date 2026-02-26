@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: hsci-people-explorer
+    env: static
+    staticPublishPath: ./
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=3600

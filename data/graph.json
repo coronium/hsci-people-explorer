@@ -1,0 +1,5827 @@
+{
+ "nodes": [
+  {
+   "id": "Q101438764",
+   "name": "Patrick J. Boner",
+   "description": "historian of science",
+   "role_count": 3
+  },
+  {
+   "id": "Q104214475",
+   "name": "David Marshall Miller",
+   "description": "American philosophy professor",
+   "role_count": 3
+  },
+  {
+   "id": "Q1064544",
+   "name": "Charles Coulston Gillispie",
+   "description": "American historian (1918–2015)",
+   "role_count": 3
+  },
+  {
+   "id": "Q107232557",
+   "name": "Frederick Gregory",
+   "description": "American historian of science",
+   "role_count": 3
+  },
+  {
+   "id": "Q1074715",
+   "name": "Richard S. Westfall",
+   "description": "American historian of science (1924–1996)",
+   "role_count": 3
+  },
+  {
+   "id": "Q111996",
+   "name": "Otto E. Neugebauer",
+   "description": "Austrian-American mathematician (1899–1990)",
+   "role_count": 3
+  },
+  {
+   "id": "Q1174369",
+   "name": "David Eugene Smith",
+   "description": "American mathematician (1860–1944)",
+   "role_count": 2
+  },
+  {
+   "id": "Q1200127",
+   "name": "Tom Whiteside",
+   "description": "British mathematician and historian of mathematics (1932–2008)",
+   "role_count": 3
+  },
+  {
+   "id": "Q1202177",
+   "name": "Owen Gingerich",
+   "description": "American astronomer (1930–2023)",
+   "role_count": 2
+  },
+  {
+   "id": "Q1292395",
+   "name": "Edward Grant",
+   "description": "American historian (1926–2020)",
+   "role_count": 2
+  },
+  {
+   "id": "Q1316061",
+   "name": "George Sarton",
+   "description": "Belgian-American historian of science (1884–1956)",
+   "role_count": 5
+  },
+  {
+   "id": "Q1338383",
+   "name": "Emmanuel Poulle",
+   "description": "French medievalist and archivist (1928–2011)",
+   "role_count": 2
+  },
+  {
+   "id": "Q1341459",
+   "name": "Roy MacLeod",
+   "description": "British-Australian historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q1347036",
+   "name": "I. Bernard Cohen",
+   "description": "American historian of science (1914–2003)",
+   "role_count": 3
+  },
+  {
+   "id": "Q1375992",
+   "name": "Alistair Cameron Crombie",
+   "description": "Australian zoologist, historian of science (1915-1996)",
+   "role_count": 2
+  },
+  {
+   "id": "Q1388382",
+   "name": "René Taton",
+   "description": "French historian of science (1915-2004)",
+   "role_count": 2
+  },
+  {
+   "id": "Q1398929",
+   "name": "Kenneth O. May",
+   "description": "American mathematician (1915–1977)",
+   "role_count": 3
+  },
+  {
+   "id": "Q1409691",
+   "name": "Peter Weingart",
+   "description": "German sociologist",
+   "role_count": 1
+  },
+  {
+   "id": "Q15446686",
+   "name": "Thomas L. Hankins",
+   "description": "American professor of history, science historian, physicist",
+   "role_count": 2
+  },
+  {
+   "id": "Q15446688",
+   "name": "John C. Greene",
+   "description": "American historian of science (1917-2008)",
+   "role_count": 2
+  },
+  {
+   "id": "Q15446721",
+   "name": "Frederic Lawrence Holmes",
+   "description": "American historian (1932-2003)",
+   "role_count": 3
+  },
+  {
+   "id": "Q15547792",
+   "name": "David Edge",
+   "description": "British sociologist of science (1932–2003)",
+   "role_count": 1
+  },
+  {
+   "id": "Q15757330",
+   "name": "William Malisoff",
+   "description": "American philosopher of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q15994570",
+   "name": "David Knight",
+   "description": "British historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q1623393",
+   "name": "Eberhard Knobloch",
+   "description": "German historian of mathematics and science",
+   "role_count": 1
+  },
+  {
+   "id": "Q1625636",
+   "name": "John L. Heilbron",
+   "description": "American historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q16847586",
+   "name": "Peter K. Machamer",
+   "description": "American philosopher and historian of science",
+   "role_count": 2
+  },
+  {
+   "id": "Q16887085",
+   "name": "M. Norton Wise",
+   "description": "Distinguished Professor of History, University of California, Los Angeles",
+   "role_count": 2
+  },
+  {
+   "id": "Q1699969",
+   "name": "John E. Murdoch",
+   "description": "American philosopher of science (1927–2010)",
+   "role_count": 2
+  },
+  {
+   "id": "Q1700039",
+   "name": "John Farquhar Fulton",
+   "description": "American neurophysiologist and historian of science (1899–1960)",
+   "role_count": 2
+  },
+  {
+   "id": "Q1700413",
+   "name": "John L. Heilbron",
+   "description": "American historian of science (1934–2023)",
+   "role_count": 4
+  },
+  {
+   "id": "Q1763302",
+   "name": "Stephen Brush",
+   "description": "American physicist",
+   "role_count": 3
+  },
+  {
+   "id": "Q1794191",
+   "name": "Kurt Vogel",
+   "description": "German mathematician and historian of mathematics (1888-1985)",
+   "role_count": 2
+  },
+  {
+   "id": "Q184980",
+   "name": "Thomas Kuhn",
+   "description": "American historian, physicist and philosopher (1922 – 1996)",
+   "role_count": 2
+  },
+  {
+   "id": "Q18810889",
+   "name": "Rob Iliffe",
+   "description": "British historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q1964529",
+   "name": "Nancy Siraisi",
+   "description": "American medical historian",
+   "role_count": 2
+  },
+  {
+   "id": "Q2053700",
+   "name": "Owsei Temkin",
+   "description": "American medical historian (1902–2002)",
+   "role_count": 1
+  },
+  {
+   "id": "Q205618",
+   "name": "Naomi Oreskes",
+   "description": "American historian, scientist, academic",
+   "role_count": 2
+  },
+  {
+   "id": "Q20675615",
+   "name": "Monica Green",
+   "description": "medieval historian",
+   "role_count": 2
+  },
+  {
+   "id": "Q21170064",
+   "name": "H. Floris Cohen",
+   "description": "Dutch historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q2149716",
+   "name": "Richard Harrison Shryock",
+   "description": "American medical historian",
+   "role_count": 2
+  },
+  {
+   "id": "Q2176530",
+   "name": "Alfred Rupert Hall",
+   "description": "British historian of science (1920–2009)",
+   "role_count": 3
+  },
+  {
+   "id": "Q22087424",
+   "name": "Robert Fox",
+   "description": "British historian",
+   "role_count": 2
+  },
+  {
+   "id": "Q22958688",
+   "name": "Joan Cadden",
+   "description": "American professor, writer",
+   "role_count": 2
+  },
+  {
+   "id": "Q23017932",
+   "name": "Hugh Torrens",
+   "description": "English palaeontologist; historian of science",
+   "role_count": 2
+  },
+  {
+   "id": "Q23020834",
+   "name": "Sally Gregory Kohlstedt",
+   "description": "American historian of science",
+   "role_count": 3
+  },
+  {
+   "id": "Q2349689",
+   "name": "Stillman Drake",
+   "description": "Canadian academic (1910–1993)",
+   "role_count": 3
+  },
+  {
+   "id": "Q24292",
+   "name": "Allen G. Debus",
+   "description": "American historian of science (1926-2009)",
+   "role_count": 3
+  },
+  {
+   "id": "Q2474413",
+   "name": "Kenneth F. Schaffner",
+   "description": "American philosopher of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q2503342",
+   "name": "N. H. de V. Heathcote",
+   "description": "editor of predecessor Bulletin",
+   "role_count": 1
+  },
+  {
+   "id": "Q2602683",
+   "name": "Melvin Kranzberg",
+   "description": "American historian of technology (1917–1995)",
+   "role_count": 1
+  },
+  {
+   "id": "Q2702255",
+   "name": "Karen Hunger Parshall",
+   "description": "American historian of mathematics",
+   "role_count": 1
+  },
+  {
+   "id": "Q27490425",
+   "name": "Edgar Ashworth Underwood",
+   "description": "medical historian, 1899-1980",
+   "role_count": 2
+  },
+  {
+   "id": "Q28027754",
+   "name": "Pamela H. Smith",
+   "description": "historian of science",
+   "role_count": 5
+  },
+  {
+   "id": "Q28038698",
+   "name": "Erwin N. Hiebert",
+   "description": "Canadian-American physicist (1919–2012)",
+   "role_count": 2
+  },
+  {
+   "id": "Q28921839",
+   "name": "Paula Findlen",
+   "description": "American historian (1964-)",
+   "role_count": 2
+  },
+  {
+   "id": "Q2900247",
+   "name": "Betty Jo Teeter Dobbs",
+   "description": "American historian (1930-1994)",
+   "role_count": 2
+  },
+  {
+   "id": "Q29184945",
+   "name": "Pierre Brunet",
+   "description": "French historian of science (1893-1950)",
+   "role_count": 2
+  },
+  {
+   "id": "Q29643019",
+   "name": "Jeff Hughes",
+   "description": "British historian of science",
+   "role_count": 2
+  },
+  {
+   "id": "Q312693",
+   "name": "Philip Kitcher",
+   "description": "British-American philosopher of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q318054",
+   "name": "Joseph Needham",
+   "description": "British biochemist, historian and sinologist (1900–1995)",
+   "role_count": 2
+  },
+  {
+   "id": "Q3186886",
+   "name": "Michael Hoskin",
+   "description": "British historian of astronomy",
+   "role_count": 1
+  },
+  {
+   "id": "Q319243",
+   "name": "Alexandre Koyré",
+   "description": "French philosopher (1892–1964)",
+   "role_count": 3
+  },
+  {
+   "id": "Q325282",
+   "name": "Marshall Clagett",
+   "description": "American historian of science (1916-2005)",
+   "role_count": 3
+  },
+  {
+   "id": "Q348649",
+   "name": "Edward Shils",
+   "description": "American sociologist (1910–1995)",
+   "role_count": 1
+  },
+  {
+   "id": "Q357483",
+   "name": "Lynn Thorndike",
+   "description": "American historian of medieval science and alchemy (1882–1965)",
+   "role_count": 2
+  },
+  {
+   "id": "Q363560",
+   "name": "Adolf Yushkevich",
+   "description": "Soviet historian of mathematics and leading expert in medieval Eastern mathematics (1906-1993)",
+   "role_count": 2
+  },
+  {
+   "id": "Q367890",
+   "name": "Charles Singer",
+   "description": "British historian of science (1876-1960)",
+   "role_count": 3
+  },
+  {
+   "id": "Q3710220",
+   "name": "Gerald James Whitrow",
+   "description": "British mathematician and historian of science (1912-2000)",
+   "role_count": 2
+  },
+  {
+   "id": "Q380038",
+   "name": "Robert Fox",
+   "description": "British historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q3815565",
+   "name": "Francisco Gomes Teixeira",
+   "description": "Portuguese mathematician (1851–1933)",
+   "role_count": 2
+  },
+  {
+   "id": "Q433741",
+   "name": "Georges Canguilhem",
+   "description": "French philosopher (1904-1995)",
+   "role_count": 2
+  },
+  {
+   "id": "Q43761930",
+   "name": "Martha Fleming",
+   "description": "Canadian artist (born 1958)",
+   "role_count": 2
+  },
+  {
+   "id": "Q4424880",
+   "name": "Cyril Stanley Smith",
+   "description": "British metallurgist (1903–1992)",
+   "role_count": 2
+  },
+  {
+   "id": "Q460393",
+   "name": "Martin J. S. Rudwick",
+   "description": "British geologist, historian, and academic",
+   "role_count": 3
+  },
+  {
+   "id": "Q4684978",
+   "name": "Adrian Desmond",
+   "description": "historian of science",
+   "role_count": 2
+  },
+  {
+   "id": "Q4893377",
+   "name": "Bernard Lightman",
+   "description": "Canadian historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q4996846",
+   "name": "Henry Sigerist",
+   "description": "Swiss medical historian (1891–1957)",
+   "role_count": 1
+  },
+  {
+   "id": "Q5109109",
+   "name": "Charles E. Rosenberg",
+   "description": "American historian of science and medicine",
+   "role_count": 1
+  },
+  {
+   "id": "Q5217796",
+   "name": "Daniel Kevles",
+   "description": "American historian",
+   "role_count": 2
+  },
+  {
+   "id": "Q5235818",
+   "name": "David Kaiser",
+   "description": "American physicist",
+   "role_count": 2
+  },
+  {
+   "id": "Q527805",
+   "name": "Marie Boas Hall",
+   "description": "American historian of science (1919 – 2009)",
+   "role_count": 3
+  },
+  {
+   "id": "Q528997",
+   "name": "Dorothea Waley Singer",
+   "description": "British historian (1882–1964)",
+   "role_count": 2
+  },
+  {
+   "id": "Q529094",
+   "name": "Lorraine Daston",
+   "description": "American historian of science",
+   "role_count": 3
+  },
+  {
+   "id": "Q5345115",
+   "name": "Edward Rosen",
+   "description": "American historian of science (1906-1985)",
+   "role_count": 2
+  },
+  {
+   "id": "Q5424045",
+   "name": "F. Sherwood Taylor",
+   "description": "British historian of science",
+   "role_count": 3
+  },
+  {
+   "id": "Q550844",
+   "name": "David C. Lindberg",
+   "description": "American historian of science (1935–2015)",
+   "role_count": 3
+  },
+  {
+   "id": "Q561424",
+   "name": "Maurice Crosland",
+   "description": "British historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q5773969",
+   "name": "Russell McCormmach",
+   "description": "American historian of physics",
+   "role_count": 1
+  },
+  {
+   "id": "Q60702",
+   "name": "Jürgen Renn",
+   "description": "Max Planck Institute for the History of Science",
+   "role_count": 1
+  },
+  {
+   "id": "Q6114197",
+   "name": "Jack Morrell",
+   "description": "British historian of science",
+   "role_count": 2
+  },
+  {
+   "id": "Q6153222",
+   "name": "Janet Browne",
+   "description": "British historian of science",
+   "role_count": 2
+  },
+  {
+   "id": "Q6193623",
+   "name": "Jim Bennett",
+   "description": "British historian of science and museum curator",
+   "role_count": 3
+  },
+  {
+   "id": "Q61944839",
+   "name": "James A. Secord",
+   "description": "American British historian of science",
+   "role_count": 3
+  },
+  {
+   "id": "Q6238513",
+   "name": "John Hedley Brooke",
+   "description": "British historian of science",
+   "role_count": 2
+  },
+  {
+   "id": "Q6240953",
+   "name": "Harry Woolf",
+   "description": "American historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q628065",
+   "name": "Herbert Dingle",
+   "description": "British astronomer and historian of science (1890–1978)",
+   "role_count": 2
+  },
+  {
+   "id": "Q6376222",
+   "name": "Katharine Park",
+   "description": "History of Science professor",
+   "role_count": 3
+  },
+  {
+   "id": "Q67195",
+   "name": "Christoph J. Scriba",
+   "description": "German historian of mathematics (1929–2013)",
+   "role_count": 1
+  },
+  {
+   "id": "Q6759992",
+   "name": "Margaret W. Rossiter",
+   "description": "American historian of science",
+   "role_count": 3
+  },
+  {
+   "id": "Q6934455",
+   "name": "Michael Lynch",
+   "description": "American sociologist of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q69669214",
+   "name": "Mary Terrall",
+   "description": "American historian of science",
+   "role_count": 2
+  },
+  {
+   "id": "Q7130117",
+   "name": "Ivor Grattan-Guinness",
+   "description": "British historian of mathematics",
+   "role_count": 1
+  },
+  {
+   "id": "Q7155671",
+   "name": "Trevor Levere",
+   "description": "Canadian historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q7229",
+   "name": "Arnold Thackray",
+   "description": "British-American historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q726217",
+   "name": "Eduard Jan Dijksterhuis",
+   "description": "Dutch historian (1892–1965)",
+   "role_count": 2
+  },
+  {
+   "id": "Q7293498",
+   "name": "David E. Rowe",
+   "description": "American historian of mathematics",
+   "role_count": 1
+  },
+  {
+   "id": "Q7345962",
+   "name": "Robert J. Richards",
+   "description": "American historian of science (1942-)",
+   "role_count": 2
+  },
+  {
+   "id": "Q7354825",
+   "name": "Ronald Numbers",
+   "description": "American historian of science (1942–2023)",
+   "role_count": 1
+  },
+  {
+   "id": "Q7357373",
+   "name": "Robert P. Multhauf",
+   "description": "American historian of science and technology",
+   "role_count": 1
+  },
+  {
+   "id": "Q7368866",
+   "name": "Margaret W. Rossiter",
+   "description": "American historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "Q75091241",
+   "name": "Eduard Izrailevich Kolchinsky",
+   "description": "soviet, Russian philosopher, historian of science",
+   "role_count": 2
+  },
+  {
+   "id": "Q75242",
+   "name": "Walter Pagel",
+   "description": "pathologist and medical historian (1898-1983)",
+   "role_count": 2
+  },
+  {
+   "id": "Q75312",
+   "name": "Owsei Temkin",
+   "description": "Russian-born American medical historian (1902–2002)",
+   "role_count": 2
+  },
+  {
+   "id": "Q76390383",
+   "name": "Joan Mark",
+   "description": "American historian of anthropology",
+   "role_count": 2
+  },
+  {
+   "id": "Q83331",
+   "name": "Louis de Broglie",
+   "description": "Nobel laureate credited to pioneer the discovery of wave character of matter (1892–1987)",
+   "role_count": 2
+  },
+  {
+   "id": "Q903959",
+   "name": "J. R. Partington",
+   "description": "British chemist and historian of science (1886–1965)",
+   "role_count": 3
+  },
+  {
+   "id": "Q907710",
+   "name": "Henry Guerlac",
+   "description": "American historian (1910-1985)",
+   "role_count": 3
+  },
+  {
+   "id": "Q91482",
+   "name": "Anneliese Maier",
+   "description": "German historian (1905-1971)",
+   "role_count": 2
+  },
+  {
+   "id": "Q918972",
+   "name": "I. Bernard Cohen",
+   "description": "American historian of science (1914–2003)",
+   "role_count": 1
+  },
+  {
+   "id": "Q926791",
+   "name": "Gino Loria",
+   "description": "Italian mathematician (1862-1954)",
+   "role_count": 2
+  },
+  {
+   "id": "Q935051",
+   "name": "Gerald Holton",
+   "description": "American physicist",
+   "role_count": 2
+  },
+  {
+   "id": "Q938645",
+   "name": "Mirko Grmek",
+   "description": "Croatian-French psychiatrist & historian of medicine",
+   "role_count": 2
+  },
+  {
+   "id": "Q99857",
+   "name": "Willy Hartner",
+   "description": "German polymath (1905–1981)",
+   "role_count": 2
+  },
+  {
+   "id": "n_ahmed_ragab",
+   "name": "Ahmed Ragab",
+   "description": "Johns Hopkins School of Medicine",
+   "role_count": 1
+  },
+  {
+   "id": "n_alexandra_hui",
+   "name": "Alexandra Hui",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_alisha_rankin",
+   "name": "Alisha Rankin",
+   "description": "Tufts University",
+   "role_count": 1
+  },
+  {
+   "id": "n_amanda_rees",
+   "name": "Amanda Rees",
+   "description": "University of York",
+   "role_count": 1
+  },
+  {
+   "id": "n_anna_echterhölter",
+   "name": "Anna Echterhölter",
+   "description": "University of Vienna",
+   "role_count": 1
+  },
+  {
+   "id": "n_bruce_moran",
+   "name": "Bruce Moran",
+   "description": "American historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "n_c._west_churchman",
+   "name": "C. West Churchman",
+   "description": "American philosopher and systems scientist",
+   "role_count": 1
+  },
+  {
+   "id": "n_cathryn_carson",
+   "name": "Cathryn Carson",
+   "description": "UC Berkeley",
+   "role_count": 1
+  },
+  {
+   "id": "n_charlotte_sleigh",
+   "name": "Charlotte Sleigh",
+   "description": "British historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "n_david_miller",
+   "name": "David Miller",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_desmond_geoghegan",
+   "name": "Desmond Geoghegan",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_douglas_mckie",
+   "name": "Douglas McKie",
+   "description": "British chemist and historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "n_edward_guimont",
+   "name": "Edward Guimont",
+   "description": "Bristol Community College",
+   "role_count": 1
+  },
+  {
+   "id": "n_elaine_leong",
+   "name": "Elaine Leong",
+   "description": "University College London",
+   "role_count": 1
+  },
+  {
+   "id": "n_elena_canadelli",
+   "name": "Elena Canadelli",
+   "description": "University of Padua",
+   "role_count": 1
+  },
+  {
+   "id": "n_elise_k._burton",
+   "name": "Elise K. Burton",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_f._w._gibbs",
+   "name": "F. W. Gibbs",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_g._l._e._turner",
+   "name": "G. L. E. Turner",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_gabriela_soto_laveaga",
+   "name": "Gabriela Soto Laveaga",
+   "description": "Harvard University",
+   "role_count": 1
+  },
+  {
+   "id": "n_gregory_radick",
+   "name": "Gregory Radick",
+   "description": "University of Leeds",
+   "role_count": 1
+  },
+  {
+   "id": "n_h._d._anthony",
+   "name": "H. D. Anthony",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_h._j._sharlin",
+   "name": "H. J. Sharlin",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_h._kangro",
+   "name": "H. Kangro",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_h._w._robinson",
+   "name": "H. W. Robinson",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_harcourt_brown",
+   "name": "Harcourt Brown",
+   "description": "Canadian historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "n_jaap_maat",
+   "name": "Jaap Maat",
+   "description": "philosopher",
+   "role_count": 1
+  },
+  {
+   "id": "n_james_evans",
+   "name": "James Evans",
+   "description": "University of Puget Sound",
+   "role_count": 1
+  },
+  {
+   "id": "n_james_owen_weatherall",
+   "name": "James Owen Weatherall",
+   "description": "UC Irvine",
+   "role_count": 1
+  },
+  {
+   "id": "n_jeffrey_oaks",
+   "name": "Jeffrey Oaks",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_jeremy_a._greene",
+   "name": "Jeremy A. Greene",
+   "description": "Johns Hopkins University",
+   "role_count": 1
+  },
+  {
+   "id": "n_john_m._staudenmaier",
+   "name": "John M. Staudenmaier",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_jon_agar",
+   "name": "Jon Agar",
+   "description": "British historian of science and technology",
+   "role_count": 1
+  },
+  {
+   "id": "n_jonathan_simon",
+   "name": "Jonathan Simon",
+   "description": "Université de Lorraine",
+   "role_count": 1
+  },
+  {
+   "id": "n_joseph_d._martin",
+   "name": "Joseph D. Martin",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_julia_kursell",
+   "name": "Julia Kursell",
+   "description": "musicologist and historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "n_k._brad_wray",
+   "name": "K. Brad Wray",
+   "description": "Aarhus University",
+   "role_count": 1
+  },
+  {
+   "id": "n_marco_panza",
+   "name": "Marco Panza",
+   "description": "philosopher of mathematics",
+   "role_count": 1
+  },
+  {
+   "id": "n_maria_luisa_righini_bonelli",
+   "name": "Maria Luisa Righini Bonelli",
+   "description": "Italian historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "n_matthew_lavine",
+   "name": "Matthew Lavine",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_myrna_perez_sheldon",
+   "name": "Myrna Perez Sheldon",
+   "description": "Ohio University",
+   "role_count": 1
+  },
+  {
+   "id": "n_n._h._de_v._heathcote",
+   "name": "N. H. de V. Heathcote",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_nicholas_w._fisher",
+   "name": "Nicholas W. Fisher",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_nicole_nelson",
+   "name": "Nicole Nelson",
+   "description": "University of Wisconsin-Madison",
+   "role_count": 1
+  },
+  {
+   "id": "n_projit_bihari_mukharji",
+   "name": "Projit Bihari Mukharji",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_r._e._w._maddison",
+   "name": "R. E. W. Maddison",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_rens_bod",
+   "name": "Rens Bod",
+   "description": "University of Amsterdam",
+   "role_count": 1
+  },
+  {
+   "id": "n_richard_rudner",
+   "name": "Richard Rudner",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_robert_c._post",
+   "name": "Robert C. Post",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_ruth_oldenziel",
+   "name": "Ruth Oldenziel",
+   "description": "Eindhoven University of Technology",
+   "role_count": 1
+  },
+  {
+   "id": "n_sarah_pickman",
+   "name": "Sarah Pickman",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_sergio_sismondo",
+   "name": "Sergio Sismondo",
+   "description": "Queen's University",
+   "role_count": 1
+  },
+  {
+   "id": "n_suzanne_moon",
+   "name": "Suzanne Moon",
+   "description": "University of Oklahoma",
+   "role_count": 1
+  },
+  {
+   "id": "n_t._i._williams",
+   "name": "T. I. Williams",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_thijs_weststeijn",
+   "name": "Thijs Weststeijn",
+   "description": "art historian",
+   "role_count": 1
+  },
+  {
+   "id": "n_w._a._smeaton",
+   "name": "W. A. Smeaton",
+   "description": "",
+   "role_count": 1
+  },
+  {
+   "id": "n_w._h._brock",
+   "name": "W. H. Brock",
+   "description": "British historian of science",
+   "role_count": 1
+  },
+  {
+   "id": "n_yosef_schwartz",
+   "name": "Yosef Schwartz",
+   "description": "Tel Aviv University",
+   "role_count": 1
+  }
+ ],
+ "links": [
+  {
+   "source": "Q101438764",
+   "target": "Q104214475",
+   "weight": 2.0
+  },
+  {
+   "source": "Q101438764",
+   "target": "Q28027754",
+   "weight": 2.0
+  },
+  {
+   "source": "Q101438764",
+   "target": "Q43761930",
+   "weight": 2.0
+  },
+  {
+   "source": "Q104214475",
+   "target": "Q16847586",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q1074715",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q1200127",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q1347036",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q15446721",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q16887085",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q1700413",
+   "weight": 3.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q363560",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q529094",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1064544",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q107232557",
+   "target": "Q1174369",
+   "weight": 2.0
+  },
+  {
+   "source": "Q107232557",
+   "target": "Q1202177",
+   "weight": 2.0
+  },
+  {
+   "source": "Q107232557",
+   "target": "Q1763302",
+   "weight": 2.0
+  },
+  {
+   "source": "Q107232557",
+   "target": "Q28027754",
+   "weight": 2.0
+  },
+  {
+   "source": "Q107232557",
+   "target": "Q75091241",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q1347036",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q15446721",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q16887085",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q1700413",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q529094",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1074715",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q111996",
+   "target": "Q1347036",
+   "weight": 2.0
+  },
+  {
+   "source": "Q111996",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q111996",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q111996",
+   "target": "Q4424880",
+   "weight": 2.0
+  },
+  {
+   "source": "Q111996",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q111996",
+   "target": "Q5345115",
+   "weight": 2.0
+  },
+  {
+   "source": "Q111996",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1174369",
+   "target": "Q1202177",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1174369",
+   "target": "Q75091241",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q1316061",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q1347036",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q1388382",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q1699969",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q1700039",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q1700413",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q1794191",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q184980",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q2149716",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q363560",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1200127",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1202177",
+   "target": "Q75091241",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1292395",
+   "target": "Q15446688",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q1338383",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q1347036",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q1388382",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q1699969",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q1700039",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q1794191",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q184980",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q21170064",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q2149716",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q29184945",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q319243",
+   "weight": 3.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q3815565",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q4893377",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q5109109",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q6240953",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q7229",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q7354825",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q7357373",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q7368866",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q918972",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q926791",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "n_ahmed_ragab",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "n_elaine_leong",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "n_myrna_perez_sheldon",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1316061",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1338383",
+   "target": "Q29184945",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1338383",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1338383",
+   "target": "Q3815565",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1338383",
+   "target": "Q926791",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1341459",
+   "target": "Q15547792",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1341459",
+   "target": "Q6934455",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1341459",
+   "target": "n_nicole_nelson",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1341459",
+   "target": "n_sergio_sismondo",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q1388382",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q15446721",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q16887085",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q1699969",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q1700039",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q1700413",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q1794191",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q184980",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q2149716",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q24292",
+   "weight": 3.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q325282",
+   "weight": 3.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q4424880",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q527805",
+   "weight": 3.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q529094",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q5345115",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q907710",
+   "weight": 3.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1347036",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1375992",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1375992",
+   "target": "Q27490425",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1375992",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1375992",
+   "target": "Q3710220",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1375992",
+   "target": "Q5424045",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1375992",
+   "target": "Q628065",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1375992",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q1699969",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q1700039",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q1794191",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q184980",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q2149716",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1388382",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1398929",
+   "target": "Q1623393",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1398929",
+   "target": "Q2702255",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1398929",
+   "target": "Q67195",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1398929",
+   "target": "Q7293498",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1398929",
+   "target": "n_jeffrey_oaks",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1398929",
+   "target": "n_marco_panza",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1409691",
+   "target": "Q348649",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446686",
+   "target": "Q1700413",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446686",
+   "target": "Q1964529",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446686",
+   "target": "Q2900247",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446686",
+   "target": "Q460393",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446686",
+   "target": "Q5217796",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446686",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q16887085",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q1700413",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q529094",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15446721",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15547792",
+   "target": "Q6934455",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15547792",
+   "target": "n_nicole_nelson",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15547792",
+   "target": "n_sergio_sismondo",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15757330",
+   "target": "Q2474413",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15757330",
+   "target": "Q312693",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15757330",
+   "target": "n_c._west_churchman",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15757330",
+   "target": "n_james_owen_weatherall",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15757330",
+   "target": "n_richard_rudner",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15994570",
+   "target": "Q2503342",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15994570",
+   "target": "Q380038",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15994570",
+   "target": "Q561424",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15994570",
+   "target": "n_amanda_rees",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15994570",
+   "target": "n_charlotte_sleigh",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15994570",
+   "target": "n_h._d._anthony",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15994570",
+   "target": "n_jon_agar",
+   "weight": 2.0
+  },
+  {
+   "source": "Q15994570",
+   "target": "n_nicholas_w._fisher",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1623393",
+   "target": "Q2702255",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1623393",
+   "target": "Q67195",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1623393",
+   "target": "Q7293498",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1623393",
+   "target": "n_jeffrey_oaks",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1623393",
+   "target": "n_marco_panza",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1625636",
+   "target": "Q5773969",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1625636",
+   "target": "n_cathryn_carson",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1625636",
+   "target": "n_joseph_d._martin",
+   "weight": 2.0
+  },
+  {
+   "source": "Q16887085",
+   "target": "Q1700413",
+   "weight": 2.0
+  },
+  {
+   "source": "Q16887085",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q16887085",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q16887085",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q16887085",
+   "target": "Q529094",
+   "weight": 2.0
+  },
+  {
+   "source": "Q16887085",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q16887085",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q16887085",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q16887085",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q1700039",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q1794191",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q184980",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q2149716",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1699969",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q1794191",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q184980",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q2149716",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700039",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q1964529",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q2900247",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q363560",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q460393",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q4684978",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q5217796",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q5235818",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q529094",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1700413",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1763302",
+   "target": "Q22958688",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1763302",
+   "target": "Q28027754",
+   "weight": 3.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q184980",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q2149716",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1794191",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q2149716",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q184980",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "Q7130117",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "Q7155671",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_david_miller",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_douglas_mckie",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_f._w._gibbs",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_g._l._e._turner",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_h._j._sharlin",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_h._kangro",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_h._w._robinson",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "Q18810889",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1964529",
+   "target": "Q2900247",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1964529",
+   "target": "Q460393",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1964529",
+   "target": "Q5217796",
+   "weight": 2.0
+  },
+  {
+   "source": "Q1964529",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2053700",
+   "target": "Q4996846",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2053700",
+   "target": "n_alisha_rankin",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2053700",
+   "target": "n_gabriela_soto_laveaga",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2053700",
+   "target": "n_jeremy_a._greene",
+   "weight": 2.0
+  },
+  {
+   "source": "Q205618",
+   "target": "Q76390383",
+   "weight": 2.0
+  },
+  {
+   "source": "Q20675615",
+   "target": "Q23020834",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "Q4893377",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "Q5109109",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "Q6240953",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "Q7229",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "Q7354825",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "Q7357373",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "Q7368866",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "Q918972",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q21170064",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q2176530",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2149716",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q22087424",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q2349689",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q27490425",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q367890",
+   "weight": 3.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q3710220",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q5424045",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q6193623",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q628065",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q903959",
+   "weight": 3.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2176530",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q22087424",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q22087424",
+   "target": "Q6193623",
+   "weight": 2.0
+  },
+  {
+   "source": "Q22087424",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q22958688",
+   "target": "Q28027754",
+   "weight": 2.0
+  },
+  {
+   "source": "Q23017932",
+   "target": "Q6114197",
+   "weight": 2.0
+  },
+  {
+   "source": "Q23017932",
+   "target": "Q61944839",
+   "weight": 2.0
+  },
+  {
+   "source": "Q23020834",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q23020834",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q23020834",
+   "target": "Q935051",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q24292",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2349689",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q318054",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q325282",
+   "weight": 3.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q4424880",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q527805",
+   "weight": 3.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q529094",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q5345115",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q907710",
+   "weight": 3.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q24292",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2474413",
+   "target": "Q312693",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2474413",
+   "target": "n_c._west_churchman",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2474413",
+   "target": "n_james_owen_weatherall",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2474413",
+   "target": "n_richard_rudner",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2503342",
+   "target": "Q380038",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2503342",
+   "target": "Q561424",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2503342",
+   "target": "n_amanda_rees",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2503342",
+   "target": "n_charlotte_sleigh",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2503342",
+   "target": "n_h._d._anthony",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2503342",
+   "target": "n_jon_agar",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2503342",
+   "target": "n_nicholas_w._fisher",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2602683",
+   "target": "n_john_m._staudenmaier",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2602683",
+   "target": "n_robert_c._post",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2602683",
+   "target": "n_ruth_oldenziel",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2602683",
+   "target": "n_suzanne_moon",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2702255",
+   "target": "Q67195",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2702255",
+   "target": "Q7293498",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2702255",
+   "target": "n_jeffrey_oaks",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2702255",
+   "target": "n_marco_panza",
+   "weight": 2.0
+  },
+  {
+   "source": "Q27490425",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q27490425",
+   "target": "Q3710220",
+   "weight": 2.0
+  },
+  {
+   "source": "Q27490425",
+   "target": "Q5424045",
+   "weight": 2.0
+  },
+  {
+   "source": "Q27490425",
+   "target": "Q628065",
+   "weight": 2.0
+  },
+  {
+   "source": "Q27490425",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q28027754",
+   "target": "Q43761930",
+   "weight": 2.0
+  },
+  {
+   "source": "Q28027754",
+   "target": "Q6153222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q28027754",
+   "target": "Q61944839",
+   "weight": 2.0
+  },
+  {
+   "source": "Q28038698",
+   "target": "Q83331",
+   "weight": 2.0
+  },
+  {
+   "source": "Q28921839",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q28921839",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q28921839",
+   "target": "Q69669214",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2900247",
+   "target": "Q460393",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2900247",
+   "target": "Q5217796",
+   "weight": 2.0
+  },
+  {
+   "source": "Q2900247",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q29184945",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q29184945",
+   "target": "Q3815565",
+   "weight": 2.0
+  },
+  {
+   "source": "Q29184945",
+   "target": "Q926791",
+   "weight": 2.0
+  },
+  {
+   "source": "Q29643019",
+   "target": "Q6238513",
+   "weight": 2.0
+  },
+  {
+   "source": "Q312693",
+   "target": "n_c._west_churchman",
+   "weight": 2.0
+  },
+  {
+   "source": "Q312693",
+   "target": "n_james_owen_weatherall",
+   "weight": 2.0
+  },
+  {
+   "source": "Q312693",
+   "target": "n_richard_rudner",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q319243",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q318054",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q3186886",
+   "target": "n_james_evans",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q325282",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q3815565",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q926791",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q319243",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q357483",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q4424880",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q527805",
+   "weight": 3.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q529094",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q5345115",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q907710",
+   "weight": 3.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q325282",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q367890",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q357483",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q3710220",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q433741",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q5424045",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q6193623",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q628065",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q903959",
+   "weight": 3.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q367890",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q3710220",
+   "target": "Q5424045",
+   "weight": 2.0
+  },
+  {
+   "source": "Q3710220",
+   "target": "Q628065",
+   "weight": 2.0
+  },
+  {
+   "source": "Q3710220",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q380038",
+   "target": "Q561424",
+   "weight": 2.0
+  },
+  {
+   "source": "Q380038",
+   "target": "n_amanda_rees",
+   "weight": 2.0
+  },
+  {
+   "source": "Q380038",
+   "target": "n_charlotte_sleigh",
+   "weight": 2.0
+  },
+  {
+   "source": "Q380038",
+   "target": "n_h._d._anthony",
+   "weight": 2.0
+  },
+  {
+   "source": "Q380038",
+   "target": "n_jon_agar",
+   "weight": 2.0
+  },
+  {
+   "source": "Q380038",
+   "target": "n_nicholas_w._fisher",
+   "weight": 2.0
+  },
+  {
+   "source": "Q3815565",
+   "target": "Q926791",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q433741",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4424880",
+   "target": "Q527805",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4424880",
+   "target": "Q5345115",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4424880",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q460393",
+   "target": "Q5217796",
+   "weight": 2.0
+  },
+  {
+   "source": "Q460393",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4684978",
+   "target": "Q5235818",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "Q5109109",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "Q6240953",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "Q7229",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "Q7354825",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "Q7357373",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "Q7368866",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "Q918972",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4893377",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4996846",
+   "target": "n_alisha_rankin",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4996846",
+   "target": "n_gabriela_soto_laveaga",
+   "weight": 2.0
+  },
+  {
+   "source": "Q4996846",
+   "target": "n_jeremy_a._greene",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "Q6240953",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "Q7229",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "Q7354825",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "Q7357373",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "Q7368866",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "Q918972",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5109109",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5217796",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q528997",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q529094",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q5345115",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q907710",
+   "weight": 3.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q527805",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q528997",
+   "target": "Q550844",
+   "weight": 2.0
+  },
+  {
+   "source": "Q528997",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q528997",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q528997",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q528997",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q528997",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q528997",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q528997",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q528997",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q529094",
+   "target": "Q6376222",
+   "weight": 2.0
+  },
+  {
+   "source": "Q529094",
+   "target": "Q6759992",
+   "weight": 2.0
+  },
+  {
+   "source": "Q529094",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q529094",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5345115",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5424045",
+   "target": "Q628065",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5424045",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5424045",
+   "target": "n_bruce_moran",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5424045",
+   "target": "n_desmond_geoghegan",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5424045",
+   "target": "n_w._h._brock",
+   "weight": 2.0
+  },
+  {
+   "source": "Q550844",
+   "target": "Q726217",
+   "weight": 2.0
+  },
+  {
+   "source": "Q550844",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q550844",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q550844",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q550844",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q550844",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q550844",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q550844",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q561424",
+   "target": "n_amanda_rees",
+   "weight": 2.0
+  },
+  {
+   "source": "Q561424",
+   "target": "n_charlotte_sleigh",
+   "weight": 2.0
+  },
+  {
+   "source": "Q561424",
+   "target": "n_h._d._anthony",
+   "weight": 2.0
+  },
+  {
+   "source": "Q561424",
+   "target": "n_jon_agar",
+   "weight": 2.0
+  },
+  {
+   "source": "Q561424",
+   "target": "n_nicholas_w._fisher",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5773969",
+   "target": "n_cathryn_carson",
+   "weight": 2.0
+  },
+  {
+   "source": "Q5773969",
+   "target": "n_joseph_d._martin",
+   "weight": 2.0
+  },
+  {
+   "source": "Q60702",
+   "target": "n_anna_echterhölter",
+   "weight": 2.0
+  },
+  {
+   "source": "Q60702",
+   "target": "n_yosef_schwartz",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6114197",
+   "target": "Q61944839",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6153222",
+   "target": "Q61944839",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6193623",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6240953",
+   "target": "Q7229",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6240953",
+   "target": "Q7354825",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6240953",
+   "target": "Q7357373",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6240953",
+   "target": "Q7368866",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6240953",
+   "target": "Q918972",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6240953",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6240953",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6240953",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6240953",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q628065",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6376222",
+   "target": "Q6759992",
+   "weight": 3.0
+  },
+  {
+   "source": "Q6376222",
+   "target": "Q69669214",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6376222",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6376222",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q67195",
+   "target": "Q7293498",
+   "weight": 2.0
+  },
+  {
+   "source": "Q67195",
+   "target": "n_jeffrey_oaks",
+   "weight": 2.0
+  },
+  {
+   "source": "Q67195",
+   "target": "n_marco_panza",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6759992",
+   "target": "Q69669214",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6759992",
+   "target": "Q7345962",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6759992",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6934455",
+   "target": "n_nicole_nelson",
+   "weight": 2.0
+  },
+  {
+   "source": "Q6934455",
+   "target": "n_sergio_sismondo",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "Q7155671",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_david_miller",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_douglas_mckie",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_f._w._gibbs",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_g._l._e._turner",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_h._j._sharlin",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_h._kangro",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_h._w._robinson",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7130117",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_david_miller",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_douglas_mckie",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_f._w._gibbs",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_g._l._e._turner",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_h._j._sharlin",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_h._kangro",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_h._w._robinson",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7155671",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7229",
+   "target": "Q7354825",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7229",
+   "target": "Q7357373",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7229",
+   "target": "Q7368866",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7229",
+   "target": "Q918972",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7229",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7229",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7229",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7229",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q726217",
+   "target": "Q75242",
+   "weight": 2.0
+  },
+  {
+   "source": "Q726217",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q726217",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q726217",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q726217",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q726217",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q726217",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7293498",
+   "target": "n_jeffrey_oaks",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7293498",
+   "target": "n_marco_panza",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7345962",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7354825",
+   "target": "Q7357373",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7354825",
+   "target": "Q7368866",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7354825",
+   "target": "Q918972",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7354825",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7354825",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7354825",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7354825",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7357373",
+   "target": "Q7368866",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7357373",
+   "target": "Q918972",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7357373",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7357373",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7357373",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7357373",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7368866",
+   "target": "Q918972",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7368866",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7368866",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7368866",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q7368866",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75242",
+   "target": "Q75312",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75242",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75242",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75242",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75242",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75242",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75312",
+   "target": "Q903959",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75312",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75312",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75312",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q75312",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q903959",
+   "target": "Q907710",
+   "weight": 2.0
+  },
+  {
+   "source": "Q903959",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q903959",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q903959",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q907710",
+   "target": "Q91482",
+   "weight": 2.0
+  },
+  {
+   "source": "Q907710",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q907710",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q91482",
+   "target": "Q938645",
+   "weight": 2.0
+  },
+  {
+   "source": "Q91482",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "Q918972",
+   "target": "n_alexandra_hui",
+   "weight": 2.0
+  },
+  {
+   "source": "Q918972",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "Q918972",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "Q918972",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "Q938645",
+   "target": "Q99857",
+   "weight": 2.0
+  },
+  {
+   "source": "n_ahmed_ragab",
+   "target": "n_elaine_leong",
+   "weight": 2.0
+  },
+  {
+   "source": "n_ahmed_ragab",
+   "target": "n_myrna_perez_sheldon",
+   "weight": 2.0
+  },
+  {
+   "source": "n_alexandra_hui",
+   "target": "n_elise_k._burton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_alexandra_hui",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "n_alexandra_hui",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "n_alisha_rankin",
+   "target": "n_gabriela_soto_laveaga",
+   "weight": 2.0
+  },
+  {
+   "source": "n_alisha_rankin",
+   "target": "n_jeremy_a._greene",
+   "weight": 2.0
+  },
+  {
+   "source": "n_amanda_rees",
+   "target": "n_charlotte_sleigh",
+   "weight": 2.0
+  },
+  {
+   "source": "n_amanda_rees",
+   "target": "n_h._d._anthony",
+   "weight": 2.0
+  },
+  {
+   "source": "n_amanda_rees",
+   "target": "n_jon_agar",
+   "weight": 2.0
+  },
+  {
+   "source": "n_amanda_rees",
+   "target": "n_nicholas_w._fisher",
+   "weight": 2.0
+  },
+  {
+   "source": "n_anna_echterhölter",
+   "target": "n_yosef_schwartz",
+   "weight": 2.0
+  },
+  {
+   "source": "n_bruce_moran",
+   "target": "n_desmond_geoghegan",
+   "weight": 2.0
+  },
+  {
+   "source": "n_bruce_moran",
+   "target": "n_w._h._brock",
+   "weight": 2.0
+  },
+  {
+   "source": "n_c._west_churchman",
+   "target": "n_james_owen_weatherall",
+   "weight": 2.0
+  },
+  {
+   "source": "n_c._west_churchman",
+   "target": "n_richard_rudner",
+   "weight": 2.0
+  },
+  {
+   "source": "n_cathryn_carson",
+   "target": "n_joseph_d._martin",
+   "weight": 2.0
+  },
+  {
+   "source": "n_charlotte_sleigh",
+   "target": "n_h._d._anthony",
+   "weight": 2.0
+  },
+  {
+   "source": "n_charlotte_sleigh",
+   "target": "n_jon_agar",
+   "weight": 2.0
+  },
+  {
+   "source": "n_charlotte_sleigh",
+   "target": "n_nicholas_w._fisher",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_douglas_mckie",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_f._w._gibbs",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_g._l._e._turner",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_h._j._sharlin",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_h._kangro",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_h._w._robinson",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_david_miller",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_desmond_geoghegan",
+   "target": "n_w._h._brock",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_f._w._gibbs",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_g._l._e._turner",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_h._j._sharlin",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_h._kangro",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_h._w._robinson",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_douglas_mckie",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_edward_guimont",
+   "target": "n_sarah_pickman",
+   "weight": 2.0
+  },
+  {
+   "source": "n_elaine_leong",
+   "target": "n_myrna_perez_sheldon",
+   "weight": 2.0
+  },
+  {
+   "source": "n_elena_canadelli",
+   "target": "n_maria_luisa_righini_bonelli",
+   "weight": 2.0
+  },
+  {
+   "source": "n_elise_k._burton",
+   "target": "n_matthew_lavine",
+   "weight": 2.0
+  },
+  {
+   "source": "n_elise_k._burton",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "n_f._w._gibbs",
+   "target": "n_g._l._e._turner",
+   "weight": 2.0
+  },
+  {
+   "source": "n_f._w._gibbs",
+   "target": "n_h._j._sharlin",
+   "weight": 2.0
+  },
+  {
+   "source": "n_f._w._gibbs",
+   "target": "n_h._kangro",
+   "weight": 2.0
+  },
+  {
+   "source": "n_f._w._gibbs",
+   "target": "n_h._w._robinson",
+   "weight": 2.0
+  },
+  {
+   "source": "n_f._w._gibbs",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "n_f._w._gibbs",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "n_f._w._gibbs",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "n_f._w._gibbs",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_f._w._gibbs",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_g._l._e._turner",
+   "target": "n_h._j._sharlin",
+   "weight": 2.0
+  },
+  {
+   "source": "n_g._l._e._turner",
+   "target": "n_h._kangro",
+   "weight": 2.0
+  },
+  {
+   "source": "n_g._l._e._turner",
+   "target": "n_h._w._robinson",
+   "weight": 2.0
+  },
+  {
+   "source": "n_g._l._e._turner",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "n_g._l._e._turner",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "n_g._l._e._turner",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "n_g._l._e._turner",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_g._l._e._turner",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_gabriela_soto_laveaga",
+   "target": "n_jeremy_a._greene",
+   "weight": 2.0
+  },
+  {
+   "source": "n_gregory_radick",
+   "target": "n_jonathan_simon",
+   "weight": 2.0
+  },
+  {
+   "source": "n_gregory_radick",
+   "target": "n_k._brad_wray",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._d._anthony",
+   "target": "n_jon_agar",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._d._anthony",
+   "target": "n_nicholas_w._fisher",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._j._sharlin",
+   "target": "n_h._kangro",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._j._sharlin",
+   "target": "n_h._w._robinson",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._j._sharlin",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._j._sharlin",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._j._sharlin",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._j._sharlin",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._j._sharlin",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._kangro",
+   "target": "n_h._w._robinson",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._kangro",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._kangro",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._kangro",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._kangro",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._kangro",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._w._robinson",
+   "target": "n_harcourt_brown",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._w._robinson",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._w._robinson",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._w._robinson",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_h._w._robinson",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_harcourt_brown",
+   "target": "n_n._h._de_v._heathcote",
+   "weight": 2.0
+  },
+  {
+   "source": "n_harcourt_brown",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "n_harcourt_brown",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_harcourt_brown",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_jaap_maat",
+   "target": "n_julia_kursell",
+   "weight": 2.0
+  },
+  {
+   "source": "n_jaap_maat",
+   "target": "n_rens_bod",
+   "weight": 2.0
+  },
+  {
+   "source": "n_jaap_maat",
+   "target": "n_thijs_weststeijn",
+   "weight": 2.0
+  },
+  {
+   "source": "n_james_owen_weatherall",
+   "target": "n_richard_rudner",
+   "weight": 2.0
+  },
+  {
+   "source": "n_jeffrey_oaks",
+   "target": "n_marco_panza",
+   "weight": 2.0
+  },
+  {
+   "source": "n_john_m._staudenmaier",
+   "target": "n_robert_c._post",
+   "weight": 2.0
+  },
+  {
+   "source": "n_john_m._staudenmaier",
+   "target": "n_ruth_oldenziel",
+   "weight": 2.0
+  },
+  {
+   "source": "n_john_m._staudenmaier",
+   "target": "n_suzanne_moon",
+   "weight": 2.0
+  },
+  {
+   "source": "n_jon_agar",
+   "target": "n_nicholas_w._fisher",
+   "weight": 2.0
+  },
+  {
+   "source": "n_jonathan_simon",
+   "target": "n_k._brad_wray",
+   "weight": 2.0
+  },
+  {
+   "source": "n_julia_kursell",
+   "target": "n_rens_bod",
+   "weight": 2.0
+  },
+  {
+   "source": "n_julia_kursell",
+   "target": "n_thijs_weststeijn",
+   "weight": 2.0
+  },
+  {
+   "source": "n_matthew_lavine",
+   "target": "n_projit_bihari_mukharji",
+   "weight": 2.0
+  },
+  {
+   "source": "n_n._h._de_v._heathcote",
+   "target": "n_r._e._w._maddison",
+   "weight": 2.0
+  },
+  {
+   "source": "n_n._h._de_v._heathcote",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_n._h._de_v._heathcote",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_nicole_nelson",
+   "target": "n_sergio_sismondo",
+   "weight": 2.0
+  },
+  {
+   "source": "n_r._e._w._maddison",
+   "target": "n_t._i._williams",
+   "weight": 2.0
+  },
+  {
+   "source": "n_r._e._w._maddison",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  },
+  {
+   "source": "n_rens_bod",
+   "target": "n_thijs_weststeijn",
+   "weight": 2.0
+  },
+  {
+   "source": "n_robert_c._post",
+   "target": "n_ruth_oldenziel",
+   "weight": 2.0
+  },
+  {
+   "source": "n_robert_c._post",
+   "target": "n_suzanne_moon",
+   "weight": 2.0
+  },
+  {
+   "source": "n_ruth_oldenziel",
+   "target": "n_suzanne_moon",
+   "weight": 2.0
+  },
+  {
+   "source": "n_t._i._williams",
+   "target": "n_w._a._smeaton",
+   "weight": 2.0
+  }
+ ]
+}
